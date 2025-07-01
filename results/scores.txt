@@ -1,0 +1,428 @@
+###
+Train Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6000
+Precision: 0.6000
+Recall: 1.0000
+F1-Score: 0.7500
+###
+Accuracy: %60.00
+Precision: %60.00
+Recall: %100.00
+F1-Score: %75.00
+###
+###
+Validate Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6000
+Precision: 0.6000
+Recall: 1.0000
+F1-Score: 0.7500
+###
+Accuracy: %60.00
+Precision: %60.00
+Recall: %100.00
+F1-Score: %75.00
+###
+###
+Improved Train Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6000
+Precision: 0.6000
+Recall: 1.0000
+F1-Score: 0.7500
+###
+Accuracy: %60.00
+Precision: %60.00
+Recall: %100.00
+F1-Score: %75.00
+###
+###
+Improved Validate Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6000
+Precision: 0.6000
+Recall: 1.0000
+F1-Score: 0.7500
+###
+Accuracy: %60.00
+Precision: %60.00
+Recall: %100.00
+F1-Score: %75.00
+###
+MODEL THRESHOLD CHANGED TO OPTIMUM CALCULATING AGAIN
+###
+Train Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.8500
+Precision: 0.8000
+Recall: 1.0000
+F1-Score: 0.8889
+###
+Accuracy: %85.00
+Precision: %80.00
+Recall: %100.00
+F1-Score: %88.89
+###
+MODEL THRESHOLD CHANGED TO OPTIMUM CALCULATING AGAIN
+###
+Validate Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6500
+Precision: 0.6316
+Recall: 1.0000
+F1-Score: 0.7742
+###
+Accuracy: %65.00
+Precision: %63.16
+Recall: %100.00
+F1-Score: %77.42
+###
+MODEL THRESHOLD CHANGED TO OPTIMUM CALCULATING AGAIN
+###
+Improved Train Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.8500
+Precision: 0.8000
+Recall: 1.0000
+F1-Score: 0.8889
+###
+Accuracy: %85.00
+Precision: %80.00
+Recall: %100.00
+F1-Score: %88.89
+###
+MODEL THRESHOLD CHANGED TO OPTIMUM CALCULATING AGAIN
+###
+Improved Validate Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6500
+Precision: 0.6316
+Recall: 1.0000
+F1-Score: 0.7742
+###
+Accuracy: %65.00
+Precision: %63.16
+Recall: %100.00
+F1-Score: %77.42
+###
+###
+Train Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6000
+Precision: 0.6000
+Recall: 1.0000
+F1-Score: 0.7500
+###
+Accuracy: %60.00
+Precision: %60.00
+Recall: %100.00
+F1-Score: %75.00
+###
+###
+Validate Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6000
+Precision: 0.6000
+Recall: 1.0000
+F1-Score: 0.7500
+###
+Accuracy: %60.00
+Precision: %60.00
+Recall: %100.00
+F1-Score: %75.00
+###
+###
+Improved Train Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6000
+Precision: 0.6000
+Recall: 1.0000
+F1-Score: 0.7500
+###
+Accuracy: %60.00
+Precision: %60.00
+Recall: %100.00
+F1-Score: %75.00
+###
+###
+Improved Validate Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6000
+Precision: 0.6000
+Recall: 1.0000
+F1-Score: 0.7500
+###
+Accuracy: %60.00
+Precision: %60.00
+Recall: %100.00
+F1-Score: %75.00
+###
+MODEL THRESHOLD CHANGED TO OPTIMUM CALCULATING AGAIN
+###
+Train Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.8500
+Precision: 0.8000
+Recall: 1.0000
+F1-Score: 0.8889
+###
+Accuracy: %85.00
+Precision: %80.00
+Recall: %100.00
+F1-Score: %88.89
+###
+MODEL THRESHOLD CHANGED TO OPTIMUM CALCULATING AGAIN
+###
+Validate Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6500
+Precision: 0.6316
+Recall: 1.0000
+F1-Score: 0.7742
+###
+Accuracy: %65.00
+Precision: %63.16
+Recall: %100.00
+F1-Score: %77.42
+###
+MODEL THRESHOLD CHANGED TO OPTIMUM CALCULATING AGAIN
+###
+Improved Train Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.8500
+Precision: 0.8000
+Recall: 1.0000
+F1-Score: 0.8889
+###
+Accuracy: %85.00
+Precision: %80.00
+Recall: %100.00
+F1-Score: %88.89
+###
+MODEL THRESHOLD CHANGED TO OPTIMUM CALCULATING AGAIN
+###
+Improved Validate Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6500
+Precision: 0.6316
+Recall: 1.0000
+F1-Score: 0.7742
+###
+Accuracy: %65.00
+Precision: %63.16
+Recall: %100.00
+F1-Score: %77.42
+###
+###
+Train Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6000
+Precision: 0.6000
+Recall: 1.0000
+F1-Score: 0.7500
+###
+Accuracy: %60.00
+Precision: %60.00
+Recall: %100.00
+F1-Score: %75.00
+###
+###
+Validate Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6000
+Precision: 0.6000
+Recall: 1.0000
+F1-Score: 0.7500
+###
+Accuracy: %60.00
+Precision: %60.00
+Recall: %100.00
+F1-Score: %75.00
+###
+###
+Improved Train Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6000
+Precision: 0.6000
+Recall: 1.0000
+F1-Score: 0.7500
+###
+Accuracy: %60.00
+Precision: %60.00
+Recall: %100.00
+F1-Score: %75.00
+###
+###
+Improved Validate Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6000
+Precision: 0.6000
+Recall: 1.0000
+F1-Score: 0.7500
+###
+Accuracy: %60.00
+Precision: %60.00
+Recall: %100.00
+F1-Score: %75.00
+###
+###
+Train Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6000
+Precision: 0.6000
+Recall: 1.0000
+F1-Score: 0.7500
+###
+Accuracy: %60.00
+Precision: %60.00
+Recall: %100.00
+F1-Score: %75.00
+###
+###
+Validate Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6000
+Precision: 0.6000
+Recall: 1.0000
+F1-Score: 0.7500
+###
+Accuracy: %60.00
+Precision: %60.00
+Recall: %100.00
+F1-Score: %75.00
+###
+###
+Improved Train Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6000
+Precision: 0.6000
+Recall: 1.0000
+F1-Score: 0.7500
+###
+Accuracy: %60.00
+Precision: %60.00
+Recall: %100.00
+F1-Score: %75.00
+###
+###
+Improved Validate Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6000
+Precision: 0.6000
+Recall: 1.0000
+F1-Score: 0.7500
+###
+Accuracy: %60.00
+Precision: %60.00
+Recall: %100.00
+F1-Score: %75.00
+###
+###
+Train Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6000
+Precision: 0.6000
+Recall: 1.0000
+F1-Score: 0.7500
+###
+Accuracy: %60.00
+Precision: %60.00
+Recall: %100.00
+F1-Score: %75.00
+###
+###
+Validate Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6000
+Precision: 0.6000
+Recall: 1.0000
+F1-Score: 0.7500
+###
+Accuracy: %60.00
+Precision: %60.00
+Recall: %100.00
+F1-Score: %75.00
+###
+###
+Improved Train Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6000
+Precision: 0.6000
+Recall: 1.0000
+F1-Score: 0.7500
+###
+Accuracy: %60.00
+Precision: %60.00
+Recall: %100.00
+F1-Score: %75.00
+###
+###
+Improved Validate Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6000
+Precision: 0.6000
+Recall: 1.0000
+F1-Score: 0.7500
+###
+Accuracy: %60.00
+Precision: %60.00
+Recall: %100.00
+F1-Score: %75.00
+###
+MODEL THRESHOLD CHANGED TO OPTIMUM CALCULATING AGAIN
+###
+Train Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.8500
+Precision: 0.8000
+Recall: 1.0000
+F1-Score: 0.8889
+###
+Accuracy: %85.00
+Precision: %80.00
+Recall: %100.00
+F1-Score: %88.89
+###
+MODEL THRESHOLD CHANGED TO OPTIMUM CALCULATING AGAIN
+###
+Validate Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6500
+Precision: 0.6316
+Recall: 1.0000
+F1-Score: 0.7742
+###
+Accuracy: %65.00
+Precision: %63.16
+Recall: %100.00
+F1-Score: %77.42
+###
+MODEL THRESHOLD CHANGED TO OPTIMUM CALCULATING AGAIN
+###
+Improved Train Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.8500
+Precision: 0.8000
+Recall: 1.0000
+F1-Score: 0.8889
+###
+Accuracy: %85.00
+Precision: %80.00
+Recall: %100.00
+F1-Score: %88.89
+###
+MODEL THRESHOLD CHANGED TO OPTIMUM CALCULATING AGAIN
+###
+Improved Validate Model Scores:
+Model Evaluation on Test Set:
+Accuracy: 0.6500
+Precision: 0.6316
+Recall: 1.0000
+F1-Score: 0.7742
+###
+Accuracy: %65.00
+Precision: %63.16
+Recall: %100.00
+F1-Score: %77.42
+###

@@ -1,0 +1,1904 @@
+Epoch started for not improvized SGD:
+Epoch Loss on 0: 123.95086364733298
+Epoch Loss on 1: 122.52672652758037
+Epoch Loss on 2: 122.31857676004381
+Epoch Loss on 3: 122.2471133604154
+Epoch Loss on 4: 122.2225416350632
+Epoch Loss on 5: 122.21424071518936
+Epoch Loss on 6: 122.21145590556165
+Epoch Loss on 7: 122.2105239094669
+Epoch Loss on 8: 122.21021225222903
+Epoch Loss on 9: 122.21010806340715
+Epoch Loss on 10: 122.21007323567314
+Epoch Loss on 11: 122.21006159399623
+Epoch Loss on 12: 122.21005770263272
+Epoch Loss on 13: 122.21005640190255
+Epoch Loss on 14: 122.21005596713111
+Epoch Loss on 15: 122.21005582179565
+Epoch Loss on 16: 122.21005577322664
+Epoch Loss on 17: 122.21005575699145
+Epoch Loss on 18: 122.21005575156371
+Epoch Loss on 19: 122.21005574974416
+Epoch Loss on 20: 122.21005574914346
+Epoch Loss on 21: 122.21005574894265
+Epoch Loss on 22: 122.21005574887519
+Epoch Loss on 23: 122.21005574883465
+Epoch Loss on 24: 122.21005574882312
+Epoch Loss on 25: 122.21005574884323
+Epoch Loss on 26: 122.21005574884204
+Epoch Loss on 27: 122.21005574884191
+Epoch Loss on 28: 122.21005574884178
+Epoch Loss on 29: 122.21005574884175
+Epoch Loss on 30: 122.21005574884173
+Epoch Loss on 31: 122.21005574884173
+Epoch Loss on 32: 122.21005574884171
+Epoch Loss on 33: 122.21005574884171
+Epoch Loss on 34: 122.21005574884171
+Epoch Loss on 35: 122.21005574884171
+Epoch Loss on 36: 122.21005574884171
+Epoch Loss on 37: 122.21005574884171
+Epoch Loss on 38: 122.21005574884171
+Epoch Loss on 39: 122.21005574884171
+Epoch Loss on 40: 122.21005574884171
+Epoch Loss on 41: 122.21005574884171
+Epoch Loss on 42: 122.21005574884171
+Epoch Loss on 43: 122.21005574884171
+Epoch Loss on 44: 122.21005574884171
+Epoch Loss on 45: 122.21005574884171
+Epoch Loss on 46: 122.21005574884171
+Epoch Loss on 47: 122.21005574884171
+Epoch Loss on 48: 122.21005574884171
+Epoch Loss on 49: 122.21005574884171
+Epoch started for not improvized SGD:
+Epoch Loss on 0: 38.5588213585399
+Epoch Loss on 1: 39.2501454938096
+Epoch Loss on 2: 39.26641827030214
+Epoch Loss on 3: 39.25104039852123
+Epoch Loss on 4: 39.21146017918016
+Epoch Loss on 5: 39.15967182761309
+Epoch Loss on 6: 39.107530285237935
+Epoch Loss on 7: 39.062415439096625
+Epoch Loss on 8: 39.02705482931939
+Epoch Loss on 9: 39.001130557810555
+Epoch Loss on 10: 38.98296395614484
+Epoch Loss on 11: 38.97061258264654
+Epoch Loss on 12: 38.96238106720262
+Epoch Loss on 13: 38.95696651125163
+Epoch Loss on 14: 38.95343507862059
+Epoch Loss on 15: 38.95114449156603
+Epoch Loss on 16: 38.94966402557298
+Epoch Loss on 17: 38.948709351610376
+Epoch Loss on 18: 38.94809464003831
+Epoch Loss on 19: 38.94769920429131
+Epoch Loss on 20: 38.94744498073072
+Epoch Loss on 21: 38.947281605728904
+Epoch Loss on 22: 38.9471766403295
+Epoch Loss on 23: 38.947109212909204
+Epoch Loss on 24: 38.947065903540626
+Epoch Loss on 25: 38.9470380873144
+Epoch Loss on 26: 38.94702022260406
+Epoch Loss on 27: 38.947008749476915
+Epoch Loss on 28: 38.94700138130127
+Epoch Loss on 29: 38.94699664942697
+Epoch Loss on 30: 38.94699361061887
+Epoch Loss on 31: 38.946991659106416
+Epoch Loss on 32: 38.946990405855345
+Epoch Loss on 33: 38.94698960102572
+Epoch Loss on 34: 38.94698908416996
+Epoch Loss on 35: 38.946988752249254
+Epoch Loss on 36: 38.946988539092615
+Epoch Loss on 37: 38.946988402205065
+Epoch Loss on 38: 38.946988314297116
+Epoch Loss on 39: 38.94698825784337
+Epoch Loss on 40: 38.946988221589194
+Epoch Loss on 41: 38.94698819830714
+Epoch Loss on 42: 38.9469881833556
+Epoch Loss on 43: 38.94698817375376
+Epoch Loss on 44: 38.94698816758762
+Epoch Loss on 45: 38.9469881636278
+Epoch Loss on 46: 38.94698816108477
+Epoch Loss on 47: 38.946988159451664
+Epoch Loss on 48: 38.94698815840298
+Epoch Loss on 49: 38.94698815772958
+Improvized Model: Improved Train Model epoch started...
+Epoch Loss on 0: 123.95217687856606
+Average Epoch Loss on 0: 2.0658696146427675
+Model Name: Improved Train Model
+Average Epoch Loss on 0: 2.0658696146427675
+Epoch Loss on 1: 122.52827496238217
+Average Epoch Loss on 1: 2.0421379160397026
+Model Name: Improved Train Model
+Average Epoch Loss on 1: 2.0421379160397026
+Epoch Loss on 2: 122.32033534474802
+Average Epoch Loss on 2: 2.0386722557458
+Model Name: Improved Train Model
+Average Epoch Loss on 2: 2.0386722557458
+Epoch Loss on 3: 122.24901395674132
+Average Epoch Loss on 3: 2.037483565945689
+Model Name: Improved Train Model
+Average Epoch Loss on 3: 2.037483565945689
+Epoch Loss on 4: 122.22451155851003
+Average Epoch Loss on 4: 2.037075192641834
+Model Name: Improved Train Model
+Average Epoch Loss on 4: 2.037075192641834
+Epoch Loss on 5: 122.21624038382454
+Average Epoch Loss on 5: 2.036937339730409
+Model Name: Improved Train Model
+Average Epoch Loss on 5: 2.036937339730409
+Epoch Loss on 6: 122.21346758965423
+Average Epoch Loss on 6: 2.036891126494237
+Model Name: Improved Train Model
+Average Epoch Loss on 6: 2.036891126494237
+Epoch Loss on 7: 122.21254028476032
+Average Epoch Loss on 7: 2.036875671412672
+Model Name: Improved Train Model
+Average Epoch Loss on 7: 2.036875671412672
+Epoch Loss on 8: 122.21223041865633
+Average Epoch Loss on 8: 2.0368705069776056
+Model Name: Improved Train Model
+Average Epoch Loss on 8: 2.0368705069776056
+Epoch Loss on 9: 122.21212690274113
+Average Epoch Loss on 9: 2.0368687817123523
+Model Name: Improved Train Model
+Average Epoch Loss on 9: 2.0368687817123523
+Epoch Loss on 10: 122.2120923247247
+Average Epoch Loss on 10: 2.036868205412078
+Model Name: Improved Train Model
+Average Epoch Loss on 10: 2.036868205412078
+Epoch Loss on 11: 122.21208077475109
+Average Epoch Loss on 11: 2.0368680129125183
+Model Name: Improved Train Model
+Average Epoch Loss on 11: 2.0368680129125183
+Epoch Loss on 12: 122.21207691679575
+Average Epoch Loss on 12: 2.0368679486132626
+Model Name: Improved Train Model
+Average Epoch Loss on 12: 2.0368679486132626
+Epoch Loss on 13: 122.21207562815705
+Average Epoch Loss on 13: 2.0368679271359507
+Model Name: Improved Train Model
+Average Epoch Loss on 13: 2.0368679271359507
+Epoch Loss on 14: 122.21207519773372
+Average Epoch Loss on 14: 2.0368679199622286
+Model Name: Improved Train Model
+Average Epoch Loss on 14: 2.0368679199622286
+Epoch Loss on 15: 122.21207505394231
+Average Epoch Loss on 15: 2.036867917565705
+Model Name: Improved Train Model
+Average Epoch Loss on 15: 2.036867917565705
+Epoch Loss on 16: 122.21207500594195
+Average Epoch Loss on 16: 2.0368679167656993
+Model Name: Improved Train Model
+Average Epoch Loss on 16: 2.0368679167656993
+Epoch Loss on 17: 122.21207498988251
+Average Epoch Loss on 17: 2.036867916498042
+Model Name: Improved Train Model
+Average Epoch Loss on 17: 2.036867916498042
+Epoch Loss on 18: 122.21207498451996
+Average Epoch Loss on 18: 2.036867916408666
+Model Name: Improved Train Model
+Average Epoch Loss on 18: 2.036867916408666
+Epoch Loss on 19: 122.21207498274322
+Average Epoch Loss on 19: 2.0368679163790535
+Model Name: Improved Train Model
+Average Epoch Loss on 19: 2.0368679163790535
+Epoch Loss on 20: 122.2120749821575
+Average Epoch Loss on 20: 2.0368679163692915
+Model Name: Improved Train Model
+Average Epoch Loss on 20: 2.0368679163692915
+Epoch Loss on 21: 122.21207498193513
+Average Epoch Loss on 21: 2.0368679163655856
+Model Name: Improved Train Model
+Average Epoch Loss on 21: 2.0368679163655856
+Epoch Loss on 22: 122.21207498186926
+Average Epoch Loss on 22: 2.036867916364488
+Model Name: Improved Train Model
+Average Epoch Loss on 22: 2.036867916364488
+Epoch Loss on 23: 122.21207498185726
+Average Epoch Loss on 23: 2.0368679163642875
+Model Name: Improved Train Model
+Average Epoch Loss on 23: 2.0368679163642875
+Epoch Loss on 24: 122.2120749818435
+Average Epoch Loss on 24: 2.0368679163640584
+Model Name: Improved Train Model
+Average Epoch Loss on 24: 2.0368679163640584
+Epoch Loss on 25: 122.21207498183777
+Average Epoch Loss on 25: 2.036867916363963
+Model Name: Improved Train Model
+Average Epoch Loss on 25: 2.036867916363963
+Epoch Loss on 26: 122.21207498183635
+Average Epoch Loss on 26: 2.0368679163639394
+Model Name: Improved Train Model
+Average Epoch Loss on 26: 2.0368679163639394
+Epoch Loss on 27: 122.21207498183627
+Average Epoch Loss on 27: 2.0368679163639376
+Model Name: Improved Train Model
+Average Epoch Loss on 27: 2.0368679163639376
+Epoch Loss on 28: 122.2120749818361
+Average Epoch Loss on 28: 2.036867916363935
+Model Name: Improved Train Model
+Average Epoch Loss on 28: 2.036867916363935
+Epoch Loss on 29: 122.21207498183607
+Average Epoch Loss on 29: 2.0368679163639345
+Model Name: Improved Train Model
+Average Epoch Loss on 29: 2.0368679163639345
+Epoch Loss on 30: 122.21207498183607
+Average Epoch Loss on 30: 2.0368679163639345
+Model Name: Improved Train Model
+Average Epoch Loss on 30: 2.0368679163639345
+Epoch Loss on 31: 122.21207498183605
+Average Epoch Loss on 31: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 31: 2.036867916363934
+Epoch Loss on 32: 122.21207498183604
+Average Epoch Loss on 32: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 32: 2.036867916363934
+Epoch Loss on 33: 122.21207498183604
+Average Epoch Loss on 33: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 33: 2.036867916363934
+Epoch Loss on 34: 122.21207498183604
+Average Epoch Loss on 34: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 34: 2.036867916363934
+Epoch Loss on 35: 122.21207498183604
+Average Epoch Loss on 35: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 35: 2.036867916363934
+Epoch Loss on 36: 122.21207498183604
+Average Epoch Loss on 36: 2.036867916363934
+Improvized Model: Improved Validate Model epoch started...
+Epoch Loss on 0: 38.559115407935515
+Average Epoch Loss on 0: 1.9279557703967758
+Model Name: Improved Validate Model
+Average Epoch Loss on 0: 1.9279557703967758
+Epoch Loss on 1: 39.2504167454526
+Average Epoch Loss on 1: 1.96252083727263
+Model Name: Improved Validate Model
+Average Epoch Loss on 1: 1.96252083727263
+Epoch Loss on 2: 39.26673131299364
+Average Epoch Loss on 2: 1.9633365656496822
+Model Name: Improved Validate Model
+Average Epoch Loss on 2: 1.9633365656496822
+Epoch Loss on 3: 39.25140314764293
+Average Epoch Loss on 3: 1.9625701573821466
+Model Name: Improved Validate Model
+Average Epoch Loss on 3: 1.9625701573821466
+Epoch Loss on 4: 39.21189764660526
+Average Epoch Loss on 4: 1.960594882330263
+Model Name: Improved Validate Model
+Average Epoch Loss on 4: 1.960594882330263
+Epoch Loss on 5: 39.16020640326547
+Average Epoch Loss on 5: 1.9580103201632735
+Epoch started for not improvized SGD:
+Epoch Loss on 0: 123.95086364733298
+Epoch Loss on 1: 122.52672652758037
+Epoch Loss on 2: 122.31857676004381
+Epoch Loss on 3: 122.2471133604154
+Epoch Loss on 4: 122.2225416350632
+Epoch Loss on 5: 122.21424071518936
+Epoch Loss on 6: 122.21145590556165
+Epoch Loss on 7: 122.2105239094669
+Epoch Loss on 8: 122.21021225222903
+Epoch Loss on 9: 122.21010806340715
+Epoch Loss on 10: 122.21007323567314
+Epoch Loss on 11: 122.21006159399623
+Epoch Loss on 12: 122.21005770263272
+Epoch Loss on 13: 122.21005640190255
+Epoch Loss on 14: 122.21005596713111
+Epoch Loss on 15: 122.21005582179565
+Epoch Loss on 16: 122.21005577322664
+Epoch Loss on 17: 122.21005575699145
+Epoch Loss on 18: 122.21005575156371
+Epoch Loss on 19: 122.21005574974416
+Epoch Loss on 20: 122.21005574914346
+Epoch Loss on 21: 122.21005574894265
+Epoch Loss on 22: 122.21005574887519
+Epoch Loss on 23: 122.21005574883465
+Epoch Loss on 24: 122.21005574882312
+Epoch Loss on 25: 122.21005574884323
+Epoch Loss on 26: 122.21005574884204
+Epoch Loss on 27: 122.21005574884191
+Epoch Loss on 28: 122.21005574884178
+Epoch Loss on 29: 122.21005574884175
+Epoch Loss on 30: 122.21005574884173
+Epoch Loss on 31: 122.21005574884173
+Epoch Loss on 32: 122.21005574884171
+Epoch Loss on 33: 122.21005574884171
+Epoch Loss on 34: 122.21005574884171
+Epoch Loss on 35: 122.21005574884171
+Epoch Loss on 36: 122.21005574884171
+Epoch Loss on 37: 122.21005574884171
+Epoch Loss on 38: 122.21005574884171
+Epoch Loss on 39: 122.21005574884171
+Epoch Loss on 40: 122.21005574884171
+Epoch Loss on 41: 122.21005574884171
+Epoch Loss on 42: 122.21005574884171
+Epoch Loss on 43: 122.21005574884171
+Epoch Loss on 44: 122.21005574884171
+Epoch Loss on 45: 122.21005574884171
+Epoch Loss on 46: 122.21005574884171
+Epoch Loss on 47: 122.21005574884171
+Epoch Loss on 48: 122.21005574884171
+Epoch Loss on 49: 122.21005574884171
+Epoch started for not improvized SGD:
+Epoch Loss on 0: 38.5588213585399
+Epoch Loss on 1: 39.2501454938096
+Epoch Loss on 2: 39.26641827030214
+Epoch Loss on 3: 39.25104039852123
+Epoch Loss on 4: 39.21146017918016
+Epoch Loss on 5: 39.15967182761309
+Epoch Loss on 6: 39.107530285237935
+Epoch Loss on 7: 39.062415439096625
+Epoch Loss on 8: 39.02705482931939
+Epoch Loss on 9: 39.001130557810555
+Epoch Loss on 10: 38.98296395614484
+Epoch Loss on 11: 38.97061258264654
+Epoch Loss on 12: 38.96238106720262
+Epoch Loss on 13: 38.95696651125163
+Epoch Loss on 14: 38.95343507862059
+Epoch Loss on 15: 38.95114449156603
+Epoch Loss on 16: 38.94966402557298
+Epoch Loss on 17: 38.948709351610376
+Epoch Loss on 18: 38.94809464003831
+Epoch Loss on 19: 38.94769920429131
+Epoch Loss on 20: 38.94744498073072
+Epoch Loss on 21: 38.947281605728904
+Epoch Loss on 22: 38.9471766403295
+Epoch Loss on 23: 38.947109212909204
+Epoch Loss on 24: 38.947065903540626
+Epoch Loss on 25: 38.9470380873144
+Epoch Loss on 26: 38.94702022260406
+Epoch Loss on 27: 38.947008749476915
+Epoch Loss on 28: 38.94700138130127
+Epoch Loss on 29: 38.94699664942697
+Epoch Loss on 30: 38.94699361061887
+Epoch Loss on 31: 38.946991659106416
+Epoch Loss on 32: 38.946990405855345
+Epoch Loss on 33: 38.94698960102572
+Epoch Loss on 34: 38.94698908416996
+Epoch Loss on 35: 38.946988752249254
+Epoch Loss on 36: 38.946988539092615
+Epoch Loss on 37: 38.946988402205065
+Epoch Loss on 38: 38.946988314297116
+Epoch Loss on 39: 38.94698825784337
+Epoch Loss on 40: 38.946988221589194
+Epoch Loss on 41: 38.94698819830714
+Epoch Loss on 42: 38.9469881833556
+Epoch Loss on 43: 38.94698817375376
+Epoch Loss on 44: 38.94698816758762
+Epoch Loss on 45: 38.9469881636278
+Epoch Loss on 46: 38.94698816108477
+Epoch Loss on 47: 38.946988159451664
+Epoch Loss on 48: 38.94698815840298
+Epoch Loss on 49: 38.94698815772958
+Improvized Model: Improved Train Model epoch started...
+Epoch Loss on 0: 123.95217687856606
+Average Epoch Loss on 0: 2.0658696146427675
+Model Name: Improved Train Model
+Average Epoch Loss on 0: 2.0658696146427675
+Epoch Loss on 1: 122.52827496238217
+Average Epoch Loss on 1: 2.0421379160397026
+Model Name: Improved Train Model
+Average Epoch Loss on 1: 2.0421379160397026
+Epoch Loss on 2: 122.32033534474802
+Average Epoch Loss on 2: 2.0386722557458
+Model Name: Improved Train Model
+Average Epoch Loss on 2: 2.0386722557458
+Epoch Loss on 3: 122.24901395674132
+Average Epoch Loss on 3: 2.037483565945689
+Model Name: Improved Train Model
+Average Epoch Loss on 3: 2.037483565945689
+Epoch Loss on 4: 122.22451155851003
+Average Epoch Loss on 4: 2.037075192641834
+Model Name: Improved Train Model
+Average Epoch Loss on 4: 2.037075192641834
+Epoch Loss on 5: 122.21624038382454
+Average Epoch Loss on 5: 2.036937339730409
+Model Name: Improved Train Model
+Average Epoch Loss on 5: 2.036937339730409
+Epoch Loss on 6: 122.21346758965423
+Average Epoch Loss on 6: 2.036891126494237
+Model Name: Improved Train Model
+Average Epoch Loss on 6: 2.036891126494237
+Epoch Loss on 7: 122.21254028476032
+Average Epoch Loss on 7: 2.036875671412672
+Model Name: Improved Train Model
+Average Epoch Loss on 7: 2.036875671412672
+Epoch Loss on 8: 122.21223041865633
+Average Epoch Loss on 8: 2.0368705069776056
+Model Name: Improved Train Model
+Average Epoch Loss on 8: 2.0368705069776056
+Epoch Loss on 9: 122.21212690274113
+Average Epoch Loss on 9: 2.0368687817123523
+Model Name: Improved Train Model
+Average Epoch Loss on 9: 2.0368687817123523
+Epoch Loss on 10: 122.2120923247247
+Average Epoch Loss on 10: 2.036868205412078
+Model Name: Improved Train Model
+Average Epoch Loss on 10: 2.036868205412078
+Epoch Loss on 11: 122.21208077475109
+Average Epoch Loss on 11: 2.0368680129125183
+Model Name: Improved Train Model
+Average Epoch Loss on 11: 2.0368680129125183
+Epoch Loss on 12: 122.21207691679575
+Average Epoch Loss on 12: 2.0368679486132626
+Model Name: Improved Train Model
+Average Epoch Loss on 12: 2.0368679486132626
+Epoch Loss on 13: 122.21207562815705
+Average Epoch Loss on 13: 2.0368679271359507
+Model Name: Improved Train Model
+Average Epoch Loss on 13: 2.0368679271359507
+Epoch Loss on 14: 122.21207519773372
+Average Epoch Loss on 14: 2.0368679199622286
+Model Name: Improved Train Model
+Average Epoch Loss on 14: 2.0368679199622286
+Epoch Loss on 15: 122.21207505394231
+Average Epoch Loss on 15: 2.036867917565705
+Model Name: Improved Train Model
+Average Epoch Loss on 15: 2.036867917565705
+Epoch Loss on 16: 122.21207500594195
+Average Epoch Loss on 16: 2.0368679167656993
+Model Name: Improved Train Model
+Average Epoch Loss on 16: 2.0368679167656993
+Epoch Loss on 17: 122.21207498988251
+Average Epoch Loss on 17: 2.036867916498042
+Model Name: Improved Train Model
+Average Epoch Loss on 17: 2.036867916498042
+Epoch Loss on 18: 122.21207498451996
+Average Epoch Loss on 18: 2.036867916408666
+Model Name: Improved Train Model
+Average Epoch Loss on 18: 2.036867916408666
+Epoch Loss on 19: 122.21207498274322
+Average Epoch Loss on 19: 2.0368679163790535
+Model Name: Improved Train Model
+Average Epoch Loss on 19: 2.0368679163790535
+Epoch Loss on 20: 122.2120749821575
+Average Epoch Loss on 20: 2.0368679163692915
+Model Name: Improved Train Model
+Average Epoch Loss on 20: 2.0368679163692915
+Epoch Loss on 21: 122.21207498193513
+Average Epoch Loss on 21: 2.0368679163655856
+Model Name: Improved Train Model
+Average Epoch Loss on 21: 2.0368679163655856
+Epoch Loss on 22: 122.21207498186926
+Average Epoch Loss on 22: 2.036867916364488
+Model Name: Improved Train Model
+Average Epoch Loss on 22: 2.036867916364488
+Epoch Loss on 23: 122.21207498185726
+Average Epoch Loss on 23: 2.0368679163642875
+Model Name: Improved Train Model
+Average Epoch Loss on 23: 2.0368679163642875
+Epoch Loss on 24: 122.2120749818435
+Average Epoch Loss on 24: 2.0368679163640584
+Model Name: Improved Train Model
+Average Epoch Loss on 24: 2.0368679163640584
+Epoch Loss on 25: 122.21207498183777
+Average Epoch Loss on 25: 2.036867916363963
+Model Name: Improved Train Model
+Average Epoch Loss on 25: 2.036867916363963
+Epoch Loss on 26: 122.21207498183635
+Average Epoch Loss on 26: 2.0368679163639394
+Model Name: Improved Train Model
+Average Epoch Loss on 26: 2.0368679163639394
+Epoch Loss on 27: 122.21207498183627
+Average Epoch Loss on 27: 2.0368679163639376
+Model Name: Improved Train Model
+Average Epoch Loss on 27: 2.0368679163639376
+Epoch Loss on 28: 122.2120749818361
+Average Epoch Loss on 28: 2.036867916363935
+Model Name: Improved Train Model
+Average Epoch Loss on 28: 2.036867916363935
+Epoch Loss on 29: 122.21207498183607
+Average Epoch Loss on 29: 2.0368679163639345
+Model Name: Improved Train Model
+Average Epoch Loss on 29: 2.0368679163639345
+Epoch Loss on 30: 122.21207498183607
+Average Epoch Loss on 30: 2.0368679163639345
+Model Name: Improved Train Model
+Average Epoch Loss on 30: 2.0368679163639345
+Epoch Loss on 31: 122.21207498183605
+Average Epoch Loss on 31: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 31: 2.036867916363934
+Epoch Loss on 32: 122.21207498183604
+Average Epoch Loss on 32: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 32: 2.036867916363934
+Epoch Loss on 33: 122.21207498183604
+Average Epoch Loss on 33: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 33: 2.036867916363934
+Epoch Loss on 34: 122.21207498183604
+Average Epoch Loss on 34: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 34: 2.036867916363934
+Epoch Loss on 35: 122.21207498183604
+Average Epoch Loss on 35: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 35: 2.036867916363934
+Epoch Loss on 36: 122.21207498183604
+Average Epoch Loss on 36: 2.036867916363934
+Improvized Model: Improved Validate Model epoch started...
+Epoch Loss on 0: 38.559115407935515
+Average Epoch Loss on 0: 1.9279557703967758
+Model Name: Improved Validate Model
+Average Epoch Loss on 0: 1.9279557703967758
+Epoch Loss on 1: 39.2504167454526
+Average Epoch Loss on 1: 1.96252083727263
+Model Name: Improved Validate Model
+Average Epoch Loss on 1: 1.96252083727263
+Epoch Loss on 2: 39.26673131299364
+Average Epoch Loss on 2: 1.9633365656496822
+Model Name: Improved Validate Model
+Average Epoch Loss on 2: 1.9633365656496822
+Epoch Loss on 3: 39.25140314764293
+Average Epoch Loss on 3: 1.9625701573821466
+Model Name: Improved Validate Model
+Average Epoch Loss on 3: 1.9625701573821466
+Epoch Loss on 4: 39.21189764660526
+Average Epoch Loss on 4: 1.960594882330263
+Model Name: Improved Validate Model
+Average Epoch Loss on 4: 1.960594882330263
+Epoch Loss on 5: 39.16020640326547
+Average Epoch Loss on 5: 1.9580103201632735
+Epoch started for not improvized SGD:
+Epoch Loss on 0: 123.95086364733298
+Epoch Loss on 1: 122.52672652758037
+Epoch Loss on 2: 122.31857676004381
+Epoch Loss on 3: 122.2471133604154
+Epoch Loss on 4: 122.2225416350632
+Epoch Loss on 5: 122.21424071518936
+Epoch Loss on 6: 122.21145590556165
+Epoch Loss on 7: 122.2105239094669
+Epoch Loss on 8: 122.21021225222903
+Epoch Loss on 9: 122.21010806340715
+Epoch Loss on 10: 122.21007323567314
+Epoch Loss on 11: 122.21006159399623
+Epoch Loss on 12: 122.21005770263272
+Epoch Loss on 13: 122.21005640190255
+Epoch Loss on 14: 122.21005596713111
+Epoch Loss on 15: 122.21005582179565
+Epoch Loss on 16: 122.21005577322664
+Epoch Loss on 17: 122.21005575699145
+Epoch Loss on 18: 122.21005575156371
+Epoch Loss on 19: 122.21005574974416
+Epoch Loss on 20: 122.21005574914346
+Epoch Loss on 21: 122.21005574894265
+Epoch Loss on 22: 122.21005574887519
+Epoch Loss on 23: 122.21005574883465
+Epoch Loss on 24: 122.21005574882312
+Epoch Loss on 25: 122.21005574884323
+Epoch Loss on 26: 122.21005574884204
+Epoch Loss on 27: 122.21005574884191
+Epoch Loss on 28: 122.21005574884178
+Epoch Loss on 29: 122.21005574884175
+Epoch Loss on 30: 122.21005574884173
+Epoch Loss on 31: 122.21005574884173
+Epoch Loss on 32: 122.21005574884171
+Epoch Loss on 33: 122.21005574884171
+Epoch Loss on 34: 122.21005574884171
+Epoch Loss on 35: 122.21005574884171
+Epoch Loss on 36: 122.21005574884171
+Epoch Loss on 37: 122.21005574884171
+Epoch Loss on 38: 122.21005574884171
+Epoch Loss on 39: 122.21005574884171
+Epoch Loss on 40: 122.21005574884171
+Epoch Loss on 41: 122.21005574884171
+Epoch Loss on 42: 122.21005574884171
+Epoch Loss on 43: 122.21005574884171
+Epoch Loss on 44: 122.21005574884171
+Epoch Loss on 45: 122.21005574884171
+Epoch Loss on 46: 122.21005574884171
+Epoch Loss on 47: 122.21005574884171
+Epoch Loss on 48: 122.21005574884171
+Epoch Loss on 49: 122.21005574884171
+Epoch started for not improvized SGD:
+Epoch Loss on 0: 38.5588213585399
+Epoch Loss on 1: 39.2501454938096
+Epoch Loss on 2: 39.26641827030214
+Epoch Loss on 3: 39.25104039852123
+Epoch Loss on 4: 39.21146017918016
+Epoch Loss on 5: 39.15967182761309
+Epoch Loss on 6: 39.107530285237935
+Epoch Loss on 7: 39.062415439096625
+Epoch Loss on 8: 39.02705482931939
+Epoch Loss on 9: 39.001130557810555
+Epoch Loss on 10: 38.98296395614484
+Epoch Loss on 11: 38.97061258264654
+Epoch Loss on 12: 38.96238106720262
+Epoch Loss on 13: 38.95696651125163
+Epoch Loss on 14: 38.95343507862059
+Epoch Loss on 15: 38.95114449156603
+Epoch Loss on 16: 38.94966402557298
+Epoch Loss on 17: 38.948709351610376
+Epoch Loss on 18: 38.94809464003831
+Epoch Loss on 19: 38.94769920429131
+Epoch Loss on 20: 38.94744498073072
+Epoch Loss on 21: 38.947281605728904
+Epoch Loss on 22: 38.9471766403295
+Epoch Loss on 23: 38.947109212909204
+Epoch Loss on 24: 38.947065903540626
+Epoch Loss on 25: 38.9470380873144
+Epoch Loss on 26: 38.94702022260406
+Epoch Loss on 27: 38.947008749476915
+Epoch Loss on 28: 38.94700138130127
+Epoch Loss on 29: 38.94699664942697
+Epoch Loss on 30: 38.94699361061887
+Epoch Loss on 31: 38.946991659106416
+Epoch Loss on 32: 38.946990405855345
+Epoch Loss on 33: 38.94698960102572
+Epoch Loss on 34: 38.94698908416996
+Epoch Loss on 35: 38.946988752249254
+Epoch Loss on 36: 38.946988539092615
+Epoch Loss on 37: 38.946988402205065
+Epoch Loss on 38: 38.946988314297116
+Epoch Loss on 39: 38.94698825784337
+Epoch Loss on 40: 38.946988221589194
+Epoch Loss on 41: 38.94698819830714
+Epoch Loss on 42: 38.9469881833556
+Epoch Loss on 43: 38.94698817375376
+Epoch Loss on 44: 38.94698816758762
+Epoch Loss on 45: 38.9469881636278
+Epoch Loss on 46: 38.94698816108477
+Epoch Loss on 47: 38.946988159451664
+Epoch Loss on 48: 38.94698815840298
+Epoch Loss on 49: 38.94698815772958
+Improvized Model: Improved Train Model epoch started...
+Epoch Loss on 0: 123.95217687856606
+Average Epoch Loss on 0: 2.0658696146427675
+Model Name: Improved Train Model
+Average Epoch Loss on 0: 2.0658696146427675
+Epoch Loss on 1: 122.52827496238217
+Average Epoch Loss on 1: 2.0421379160397026
+Model Name: Improved Train Model
+Average Epoch Loss on 1: 2.0421379160397026
+Epoch Loss on 2: 122.32033534474802
+Average Epoch Loss on 2: 2.0386722557458
+Model Name: Improved Train Model
+Average Epoch Loss on 2: 2.0386722557458
+Epoch Loss on 3: 122.24901395674132
+Average Epoch Loss on 3: 2.037483565945689
+Model Name: Improved Train Model
+Average Epoch Loss on 3: 2.037483565945689
+Epoch Loss on 4: 122.22451155851003
+Average Epoch Loss on 4: 2.037075192641834
+Model Name: Improved Train Model
+Average Epoch Loss on 4: 2.037075192641834
+Epoch Loss on 5: 122.21624038382454
+Average Epoch Loss on 5: 2.036937339730409
+Model Name: Improved Train Model
+Average Epoch Loss on 5: 2.036937339730409
+Epoch Loss on 6: 122.21346758965423
+Average Epoch Loss on 6: 2.036891126494237
+Model Name: Improved Train Model
+Average Epoch Loss on 6: 2.036891126494237
+Epoch Loss on 7: 122.21254028476032
+Average Epoch Loss on 7: 2.036875671412672
+Model Name: Improved Train Model
+Average Epoch Loss on 7: 2.036875671412672
+Epoch Loss on 8: 122.21223041865633
+Average Epoch Loss on 8: 2.0368705069776056
+Model Name: Improved Train Model
+Average Epoch Loss on 8: 2.0368705069776056
+Epoch Loss on 9: 122.21212690274113
+Average Epoch Loss on 9: 2.0368687817123523
+Model Name: Improved Train Model
+Average Epoch Loss on 9: 2.0368687817123523
+Epoch Loss on 10: 122.2120923247247
+Average Epoch Loss on 10: 2.036868205412078
+Model Name: Improved Train Model
+Average Epoch Loss on 10: 2.036868205412078
+Epoch Loss on 11: 122.21208077475109
+Average Epoch Loss on 11: 2.0368680129125183
+Model Name: Improved Train Model
+Average Epoch Loss on 11: 2.0368680129125183
+Epoch Loss on 12: 122.21207691679575
+Average Epoch Loss on 12: 2.0368679486132626
+Model Name: Improved Train Model
+Average Epoch Loss on 12: 2.0368679486132626
+Epoch Loss on 13: 122.21207562815705
+Average Epoch Loss on 13: 2.0368679271359507
+Model Name: Improved Train Model
+Average Epoch Loss on 13: 2.0368679271359507
+Epoch Loss on 14: 122.21207519773372
+Average Epoch Loss on 14: 2.0368679199622286
+Model Name: Improved Train Model
+Average Epoch Loss on 14: 2.0368679199622286
+Epoch Loss on 15: 122.21207505394231
+Average Epoch Loss on 15: 2.036867917565705
+Model Name: Improved Train Model
+Average Epoch Loss on 15: 2.036867917565705
+Epoch Loss on 16: 122.21207500594195
+Average Epoch Loss on 16: 2.0368679167656993
+Model Name: Improved Train Model
+Average Epoch Loss on 16: 2.0368679167656993
+Epoch Loss on 17: 122.21207498988251
+Average Epoch Loss on 17: 2.036867916498042
+Model Name: Improved Train Model
+Average Epoch Loss on 17: 2.036867916498042
+Epoch Loss on 18: 122.21207498451996
+Average Epoch Loss on 18: 2.036867916408666
+Model Name: Improved Train Model
+Average Epoch Loss on 18: 2.036867916408666
+Epoch Loss on 19: 122.21207498274322
+Average Epoch Loss on 19: 2.0368679163790535
+Model Name: Improved Train Model
+Average Epoch Loss on 19: 2.0368679163790535
+Epoch Loss on 20: 122.2120749821575
+Average Epoch Loss on 20: 2.0368679163692915
+Model Name: Improved Train Model
+Average Epoch Loss on 20: 2.0368679163692915
+Epoch Loss on 21: 122.21207498193513
+Average Epoch Loss on 21: 2.0368679163655856
+Model Name: Improved Train Model
+Average Epoch Loss on 21: 2.0368679163655856
+Epoch Loss on 22: 122.21207498186926
+Average Epoch Loss on 22: 2.036867916364488
+Model Name: Improved Train Model
+Average Epoch Loss on 22: 2.036867916364488
+Epoch Loss on 23: 122.21207498185726
+Average Epoch Loss on 23: 2.0368679163642875
+Model Name: Improved Train Model
+Average Epoch Loss on 23: 2.0368679163642875
+Epoch Loss on 24: 122.2120749818435
+Average Epoch Loss on 24: 2.0368679163640584
+Model Name: Improved Train Model
+Average Epoch Loss on 24: 2.0368679163640584
+Epoch Loss on 25: 122.21207498183777
+Average Epoch Loss on 25: 2.036867916363963
+Model Name: Improved Train Model
+Average Epoch Loss on 25: 2.036867916363963
+Epoch Loss on 26: 122.21207498183635
+Average Epoch Loss on 26: 2.0368679163639394
+Model Name: Improved Train Model
+Average Epoch Loss on 26: 2.0368679163639394
+Epoch Loss on 27: 122.21207498183627
+Average Epoch Loss on 27: 2.0368679163639376
+Model Name: Improved Train Model
+Average Epoch Loss on 27: 2.0368679163639376
+Epoch Loss on 28: 122.2120749818361
+Average Epoch Loss on 28: 2.036867916363935
+Model Name: Improved Train Model
+Average Epoch Loss on 28: 2.036867916363935
+Epoch Loss on 29: 122.21207498183607
+Average Epoch Loss on 29: 2.0368679163639345
+Model Name: Improved Train Model
+Average Epoch Loss on 29: 2.0368679163639345
+Epoch Loss on 30: 122.21207498183607
+Average Epoch Loss on 30: 2.0368679163639345
+Model Name: Improved Train Model
+Average Epoch Loss on 30: 2.0368679163639345
+Epoch Loss on 31: 122.21207498183605
+Average Epoch Loss on 31: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 31: 2.036867916363934
+Epoch Loss on 32: 122.21207498183604
+Average Epoch Loss on 32: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 32: 2.036867916363934
+Epoch Loss on 33: 122.21207498183604
+Average Epoch Loss on 33: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 33: 2.036867916363934
+Epoch Loss on 34: 122.21207498183604
+Average Epoch Loss on 34: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 34: 2.036867916363934
+Epoch Loss on 35: 122.21207498183604
+Average Epoch Loss on 35: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 35: 2.036867916363934
+Epoch Loss on 36: 122.21207498183604
+Average Epoch Loss on 36: 2.036867916363934
+Improvized Model: Improved Validate Model epoch started...
+Epoch Loss on 0: 38.559115407935515
+Average Epoch Loss on 0: 1.9279557703967758
+Model Name: Improved Validate Model
+Average Epoch Loss on 0: 1.9279557703967758
+Epoch Loss on 1: 39.2504167454526
+Average Epoch Loss on 1: 1.96252083727263
+Model Name: Improved Validate Model
+Average Epoch Loss on 1: 1.96252083727263
+Epoch Loss on 2: 39.26673131299364
+Average Epoch Loss on 2: 1.9633365656496822
+Model Name: Improved Validate Model
+Average Epoch Loss on 2: 1.9633365656496822
+Epoch Loss on 3: 39.25140314764293
+Average Epoch Loss on 3: 1.9625701573821466
+Model Name: Improved Validate Model
+Average Epoch Loss on 3: 1.9625701573821466
+Epoch Loss on 4: 39.21189764660526
+Average Epoch Loss on 4: 1.960594882330263
+Model Name: Improved Validate Model
+Average Epoch Loss on 4: 1.960594882330263
+Epoch Loss on 5: 39.16020640326547
+Average Epoch Loss on 5: 1.9580103201632735
+Epoch started for not improvized SGD:
+Epoch Loss on 0: 123.95086364733298
+Epoch Loss on 1: 122.52672652758037
+Epoch Loss on 2: 122.31857676004381
+Epoch Loss on 3: 122.2471133604154
+Epoch Loss on 4: 122.2225416350632
+Epoch Loss on 5: 122.21424071518936
+Epoch Loss on 6: 122.21145590556165
+Epoch Loss on 7: 122.2105239094669
+Epoch Loss on 8: 122.21021225222903
+Epoch Loss on 9: 122.21010806340715
+Epoch Loss on 10: 122.21007323567314
+Epoch Loss on 11: 122.21006159399623
+Epoch Loss on 12: 122.21005770263272
+Epoch Loss on 13: 122.21005640190255
+Epoch Loss on 14: 122.21005596713111
+Epoch Loss on 15: 122.21005582179565
+Epoch Loss on 16: 122.21005577322664
+Epoch Loss on 17: 122.21005575699145
+Epoch Loss on 18: 122.21005575156371
+Epoch Loss on 19: 122.21005574974416
+Epoch Loss on 20: 122.21005574914346
+Epoch Loss on 21: 122.21005574894265
+Epoch Loss on 22: 122.21005574887519
+Epoch Loss on 23: 122.21005574883465
+Epoch Loss on 24: 122.21005574882312
+Epoch Loss on 25: 122.21005574884323
+Epoch Loss on 26: 122.21005574884204
+Epoch Loss on 27: 122.21005574884191
+Epoch Loss on 28: 122.21005574884178
+Epoch Loss on 29: 122.21005574884175
+Epoch Loss on 30: 122.21005574884173
+Epoch Loss on 31: 122.21005574884173
+Epoch Loss on 32: 122.21005574884171
+Epoch Loss on 33: 122.21005574884171
+Epoch Loss on 34: 122.21005574884171
+Epoch Loss on 35: 122.21005574884171
+Epoch Loss on 36: 122.21005574884171
+Epoch Loss on 37: 122.21005574884171
+Epoch Loss on 38: 122.21005574884171
+Epoch Loss on 39: 122.21005574884171
+Epoch Loss on 40: 122.21005574884171
+Epoch Loss on 41: 122.21005574884171
+Epoch Loss on 42: 122.21005574884171
+Epoch Loss on 43: 122.21005574884171
+Epoch Loss on 44: 122.21005574884171
+Epoch Loss on 45: 122.21005574884171
+Epoch Loss on 46: 122.21005574884171
+Epoch Loss on 47: 122.21005574884171
+Epoch Loss on 48: 122.21005574884171
+Epoch Loss on 49: 122.21005574884171
+Epoch started for not improvized SGD:
+Epoch Loss on 0: 38.5588213585399
+Epoch Loss on 1: 39.2501454938096
+Epoch Loss on 2: 39.26641827030214
+Epoch Loss on 3: 39.25104039852123
+Epoch Loss on 4: 39.21146017918016
+Epoch Loss on 5: 39.15967182761309
+Epoch Loss on 6: 39.107530285237935
+Epoch Loss on 7: 39.062415439096625
+Epoch Loss on 8: 39.02705482931939
+Epoch Loss on 9: 39.001130557810555
+Epoch Loss on 10: 38.98296395614484
+Epoch Loss on 11: 38.97061258264654
+Epoch Loss on 12: 38.96238106720262
+Epoch Loss on 13: 38.95696651125163
+Epoch Loss on 14: 38.95343507862059
+Epoch Loss on 15: 38.95114449156603
+Epoch Loss on 16: 38.94966402557298
+Epoch Loss on 17: 38.948709351610376
+Epoch Loss on 18: 38.94809464003831
+Epoch Loss on 19: 38.94769920429131
+Epoch Loss on 20: 38.94744498073072
+Epoch Loss on 21: 38.947281605728904
+Epoch Loss on 22: 38.9471766403295
+Epoch Loss on 23: 38.947109212909204
+Epoch Loss on 24: 38.947065903540626
+Epoch Loss on 25: 38.9470380873144
+Epoch Loss on 26: 38.94702022260406
+Epoch Loss on 27: 38.947008749476915
+Epoch Loss on 28: 38.94700138130127
+Epoch Loss on 29: 38.94699664942697
+Epoch Loss on 30: 38.94699361061887
+Epoch Loss on 31: 38.946991659106416
+Epoch Loss on 32: 38.946990405855345
+Epoch Loss on 33: 38.94698960102572
+Epoch Loss on 34: 38.94698908416996
+Epoch Loss on 35: 38.946988752249254
+Epoch Loss on 36: 38.946988539092615
+Epoch Loss on 37: 38.946988402205065
+Epoch Loss on 38: 38.946988314297116
+Epoch Loss on 39: 38.94698825784337
+Epoch Loss on 40: 38.946988221589194
+Epoch Loss on 41: 38.94698819830714
+Epoch Loss on 42: 38.9469881833556
+Epoch Loss on 43: 38.94698817375376
+Epoch Loss on 44: 38.94698816758762
+Epoch Loss on 45: 38.9469881636278
+Epoch Loss on 46: 38.94698816108477
+Epoch Loss on 47: 38.946988159451664
+Epoch Loss on 48: 38.94698815840298
+Epoch Loss on 49: 38.94698815772958
+Improvized Model: Improved Train Model epoch started...
+Epoch Loss on 0: 123.95217687856606
+Average Epoch Loss on 0: 2.0658696146427675
+Model Name: Improved Train Model
+Average Epoch Loss on 0: 2.0658696146427675
+Epoch Loss on 1: 122.52827496238217
+Average Epoch Loss on 1: 2.0421379160397026
+Model Name: Improved Train Model
+Average Epoch Loss on 1: 2.0421379160397026
+Epoch Loss on 2: 122.32033534474802
+Average Epoch Loss on 2: 2.0386722557458
+Model Name: Improved Train Model
+Average Epoch Loss on 2: 2.0386722557458
+Epoch Loss on 3: 122.24901395674132
+Average Epoch Loss on 3: 2.037483565945689
+Model Name: Improved Train Model
+Average Epoch Loss on 3: 2.037483565945689
+Epoch Loss on 4: 122.22451155851003
+Average Epoch Loss on 4: 2.037075192641834
+Model Name: Improved Train Model
+Average Epoch Loss on 4: 2.037075192641834
+Epoch Loss on 5: 122.21624038382454
+Average Epoch Loss on 5: 2.036937339730409
+Model Name: Improved Train Model
+Average Epoch Loss on 5: 2.036937339730409
+Epoch Loss on 6: 122.21346758965423
+Average Epoch Loss on 6: 2.036891126494237
+Model Name: Improved Train Model
+Average Epoch Loss on 6: 2.036891126494237
+Epoch Loss on 7: 122.21254028476032
+Average Epoch Loss on 7: 2.036875671412672
+Model Name: Improved Train Model
+Average Epoch Loss on 7: 2.036875671412672
+Epoch Loss on 8: 122.21223041865633
+Average Epoch Loss on 8: 2.0368705069776056
+Model Name: Improved Train Model
+Average Epoch Loss on 8: 2.0368705069776056
+Epoch Loss on 9: 122.21212690274113
+Average Epoch Loss on 9: 2.0368687817123523
+Model Name: Improved Train Model
+Average Epoch Loss on 9: 2.0368687817123523
+Epoch Loss on 10: 122.2120923247247
+Average Epoch Loss on 10: 2.036868205412078
+Model Name: Improved Train Model
+Average Epoch Loss on 10: 2.036868205412078
+Epoch Loss on 11: 122.21208077475109
+Average Epoch Loss on 11: 2.0368680129125183
+Model Name: Improved Train Model
+Average Epoch Loss on 11: 2.0368680129125183
+Epoch Loss on 12: 122.21207691679575
+Average Epoch Loss on 12: 2.0368679486132626
+Model Name: Improved Train Model
+Average Epoch Loss on 12: 2.0368679486132626
+Epoch Loss on 13: 122.21207562815705
+Average Epoch Loss on 13: 2.0368679271359507
+Model Name: Improved Train Model
+Average Epoch Loss on 13: 2.0368679271359507
+Epoch Loss on 14: 122.21207519773372
+Average Epoch Loss on 14: 2.0368679199622286
+Model Name: Improved Train Model
+Average Epoch Loss on 14: 2.0368679199622286
+Epoch Loss on 15: 122.21207505394231
+Average Epoch Loss on 15: 2.036867917565705
+Model Name: Improved Train Model
+Average Epoch Loss on 15: 2.036867917565705
+Epoch Loss on 16: 122.21207500594195
+Average Epoch Loss on 16: 2.0368679167656993
+Model Name: Improved Train Model
+Average Epoch Loss on 16: 2.0368679167656993
+Epoch Loss on 17: 122.21207498988251
+Average Epoch Loss on 17: 2.036867916498042
+Model Name: Improved Train Model
+Average Epoch Loss on 17: 2.036867916498042
+Epoch Loss on 18: 122.21207498451996
+Average Epoch Loss on 18: 2.036867916408666
+Model Name: Improved Train Model
+Average Epoch Loss on 18: 2.036867916408666
+Epoch Loss on 19: 122.21207498274322
+Average Epoch Loss on 19: 2.0368679163790535
+Model Name: Improved Train Model
+Average Epoch Loss on 19: 2.0368679163790535
+Epoch Loss on 20: 122.2120749821575
+Average Epoch Loss on 20: 2.0368679163692915
+Model Name: Improved Train Model
+Average Epoch Loss on 20: 2.0368679163692915
+Epoch Loss on 21: 122.21207498193513
+Average Epoch Loss on 21: 2.0368679163655856
+Model Name: Improved Train Model
+Average Epoch Loss on 21: 2.0368679163655856
+Epoch Loss on 22: 122.21207498186926
+Average Epoch Loss on 22: 2.036867916364488
+Model Name: Improved Train Model
+Average Epoch Loss on 22: 2.036867916364488
+Epoch Loss on 23: 122.21207498185726
+Average Epoch Loss on 23: 2.0368679163642875
+Model Name: Improved Train Model
+Average Epoch Loss on 23: 2.0368679163642875
+Epoch Loss on 24: 122.2120749818435
+Average Epoch Loss on 24: 2.0368679163640584
+Model Name: Improved Train Model
+Average Epoch Loss on 24: 2.0368679163640584
+Epoch Loss on 25: 122.21207498183777
+Average Epoch Loss on 25: 2.036867916363963
+Model Name: Improved Train Model
+Average Epoch Loss on 25: 2.036867916363963
+Epoch Loss on 26: 122.21207498183635
+Average Epoch Loss on 26: 2.0368679163639394
+Model Name: Improved Train Model
+Average Epoch Loss on 26: 2.0368679163639394
+Epoch Loss on 27: 122.21207498183627
+Average Epoch Loss on 27: 2.0368679163639376
+Model Name: Improved Train Model
+Average Epoch Loss on 27: 2.0368679163639376
+Epoch Loss on 28: 122.2120749818361
+Average Epoch Loss on 28: 2.036867916363935
+Model Name: Improved Train Model
+Average Epoch Loss on 28: 2.036867916363935
+Epoch Loss on 29: 122.21207498183607
+Average Epoch Loss on 29: 2.0368679163639345
+Model Name: Improved Train Model
+Average Epoch Loss on 29: 2.0368679163639345
+Epoch Loss on 30: 122.21207498183607
+Average Epoch Loss on 30: 2.0368679163639345
+Model Name: Improved Train Model
+Average Epoch Loss on 30: 2.0368679163639345
+Epoch Loss on 31: 122.21207498183605
+Average Epoch Loss on 31: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 31: 2.036867916363934
+Epoch Loss on 32: 122.21207498183604
+Average Epoch Loss on 32: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 32: 2.036867916363934
+Epoch Loss on 33: 122.21207498183604
+Average Epoch Loss on 33: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 33: 2.036867916363934
+Epoch Loss on 34: 122.21207498183604
+Average Epoch Loss on 34: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 34: 2.036867916363934
+Epoch Loss on 35: 122.21207498183604
+Average Epoch Loss on 35: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 35: 2.036867916363934
+Epoch Loss on 36: 122.21207498183604
+Average Epoch Loss on 36: 2.036867916363934
+Improvized Model: Improved Validate Model epoch started...
+Epoch Loss on 0: 38.559115407935515
+Average Epoch Loss on 0: 1.9279557703967758
+Model Name: Improved Validate Model
+Average Epoch Loss on 0: 1.9279557703967758
+Epoch Loss on 1: 39.2504167454526
+Average Epoch Loss on 1: 1.96252083727263
+Model Name: Improved Validate Model
+Average Epoch Loss on 1: 1.96252083727263
+Epoch Loss on 2: 39.26673131299364
+Average Epoch Loss on 2: 1.9633365656496822
+Model Name: Improved Validate Model
+Average Epoch Loss on 2: 1.9633365656496822
+Epoch Loss on 3: 39.25140314764293
+Average Epoch Loss on 3: 1.9625701573821466
+Model Name: Improved Validate Model
+Average Epoch Loss on 3: 1.9625701573821466
+Epoch Loss on 4: 39.21189764660526
+Average Epoch Loss on 4: 1.960594882330263
+Model Name: Improved Validate Model
+Average Epoch Loss on 4: 1.960594882330263
+Epoch Loss on 5: 39.16020640326547
+Average Epoch Loss on 5: 1.9580103201632735
+Epoch started for not improvized SGD:
+Epoch Loss on 0: 123.95086364733298
+Epoch Loss on 1: 122.52672652758037
+Epoch Loss on 2: 122.31857676004381
+Epoch Loss on 3: 122.2471133604154
+Epoch Loss on 4: 122.2225416350632
+Epoch Loss on 5: 122.21424071518936
+Epoch Loss on 6: 122.21145590556165
+Epoch Loss on 7: 122.2105239094669
+Epoch Loss on 8: 122.21021225222903
+Epoch Loss on 9: 122.21010806340715
+Epoch Loss on 10: 122.21007323567314
+Epoch Loss on 11: 122.21006159399623
+Epoch Loss on 12: 122.21005770263272
+Epoch Loss on 13: 122.21005640190255
+Epoch Loss on 14: 122.21005596713111
+Epoch Loss on 15: 122.21005582179565
+Epoch Loss on 16: 122.21005577322664
+Epoch Loss on 17: 122.21005575699145
+Epoch Loss on 18: 122.21005575156371
+Epoch Loss on 19: 122.21005574974416
+Epoch Loss on 20: 122.21005574914346
+Epoch Loss on 21: 122.21005574894265
+Epoch Loss on 22: 122.21005574887519
+Epoch Loss on 23: 122.21005574883465
+Epoch Loss on 24: 122.21005574882312
+Epoch Loss on 25: 122.21005574884323
+Epoch Loss on 26: 122.21005574884204
+Epoch Loss on 27: 122.21005574884191
+Epoch Loss on 28: 122.21005574884178
+Epoch Loss on 29: 122.21005574884175
+Epoch Loss on 30: 122.21005574884173
+Epoch Loss on 31: 122.21005574884173
+Epoch Loss on 32: 122.21005574884171
+Epoch Loss on 33: 122.21005574884171
+Epoch Loss on 34: 122.21005574884171
+Epoch Loss on 35: 122.21005574884171
+Epoch Loss on 36: 122.21005574884171
+Epoch Loss on 37: 122.21005574884171
+Epoch Loss on 38: 122.21005574884171
+Epoch Loss on 39: 122.21005574884171
+Epoch Loss on 40: 122.21005574884171
+Epoch Loss on 41: 122.21005574884171
+Epoch Loss on 42: 122.21005574884171
+Epoch Loss on 43: 122.21005574884171
+Epoch Loss on 44: 122.21005574884171
+Epoch Loss on 45: 122.21005574884171
+Epoch Loss on 46: 122.21005574884171
+Epoch Loss on 47: 122.21005574884171
+Epoch Loss on 48: 122.21005574884171
+Epoch Loss on 49: 122.21005574884171
+Epoch started for not improvized SGD:
+Epoch Loss on 0: 38.5588213585399
+Epoch Loss on 1: 39.2501454938096
+Epoch Loss on 2: 39.26641827030214
+Epoch Loss on 3: 39.25104039852123
+Epoch Loss on 4: 39.21146017918016
+Epoch Loss on 5: 39.15967182761309
+Epoch Loss on 6: 39.107530285237935
+Epoch Loss on 7: 39.062415439096625
+Epoch Loss on 8: 39.02705482931939
+Epoch Loss on 9: 39.001130557810555
+Epoch Loss on 10: 38.98296395614484
+Epoch Loss on 11: 38.97061258264654
+Epoch Loss on 12: 38.96238106720262
+Epoch Loss on 13: 38.95696651125163
+Epoch Loss on 14: 38.95343507862059
+Epoch Loss on 15: 38.95114449156603
+Epoch Loss on 16: 38.94966402557298
+Epoch Loss on 17: 38.948709351610376
+Epoch Loss on 18: 38.94809464003831
+Epoch Loss on 19: 38.94769920429131
+Epoch Loss on 20: 38.94744498073072
+Epoch Loss on 21: 38.947281605728904
+Epoch Loss on 22: 38.9471766403295
+Epoch Loss on 23: 38.947109212909204
+Epoch Loss on 24: 38.947065903540626
+Epoch Loss on 25: 38.9470380873144
+Epoch Loss on 26: 38.94702022260406
+Epoch Loss on 27: 38.947008749476915
+Epoch Loss on 28: 38.94700138130127
+Epoch Loss on 29: 38.94699664942697
+Epoch Loss on 30: 38.94699361061887
+Epoch Loss on 31: 38.946991659106416
+Epoch Loss on 32: 38.946990405855345
+Epoch Loss on 33: 38.94698960102572
+Epoch Loss on 34: 38.94698908416996
+Epoch Loss on 35: 38.946988752249254
+Epoch Loss on 36: 38.946988539092615
+Epoch Loss on 37: 38.946988402205065
+Epoch Loss on 38: 38.946988314297116
+Epoch Loss on 39: 38.94698825784337
+Epoch Loss on 40: 38.946988221589194
+Epoch Loss on 41: 38.94698819830714
+Epoch Loss on 42: 38.9469881833556
+Epoch Loss on 43: 38.94698817375376
+Epoch Loss on 44: 38.94698816758762
+Epoch Loss on 45: 38.9469881636278
+Epoch Loss on 46: 38.94698816108477
+Epoch Loss on 47: 38.946988159451664
+Epoch Loss on 48: 38.94698815840298
+Epoch Loss on 49: 38.94698815772958
+Improvized Model: Improved Train Model epoch started...
+Epoch Loss on 0: 123.95217687856606
+Average Epoch Loss on 0: 2.0658696146427675
+Model Name: Improved Train Model
+Average Epoch Loss on 0: 2.0658696146427675
+Epoch Loss on 1: 122.52827496238217
+Average Epoch Loss on 1: 2.0421379160397026
+Model Name: Improved Train Model
+Average Epoch Loss on 1: 2.0421379160397026
+Epoch Loss on 2: 122.32033534474802
+Average Epoch Loss on 2: 2.0386722557458
+Model Name: Improved Train Model
+Average Epoch Loss on 2: 2.0386722557458
+Epoch Loss on 3: 122.24901395674132
+Average Epoch Loss on 3: 2.037483565945689
+Model Name: Improved Train Model
+Average Epoch Loss on 3: 2.037483565945689
+Epoch Loss on 4: 122.22451155851003
+Average Epoch Loss on 4: 2.037075192641834
+Model Name: Improved Train Model
+Average Epoch Loss on 4: 2.037075192641834
+Epoch Loss on 5: 122.21624038382454
+Average Epoch Loss on 5: 2.036937339730409
+Model Name: Improved Train Model
+Average Epoch Loss on 5: 2.036937339730409
+Epoch Loss on 6: 122.21346758965423
+Average Epoch Loss on 6: 2.036891126494237
+Model Name: Improved Train Model
+Average Epoch Loss on 6: 2.036891126494237
+Epoch Loss on 7: 122.21254028476032
+Average Epoch Loss on 7: 2.036875671412672
+Model Name: Improved Train Model
+Average Epoch Loss on 7: 2.036875671412672
+Epoch Loss on 8: 122.21223041865633
+Average Epoch Loss on 8: 2.0368705069776056
+Model Name: Improved Train Model
+Average Epoch Loss on 8: 2.0368705069776056
+Epoch Loss on 9: 122.21212690274113
+Average Epoch Loss on 9: 2.0368687817123523
+Model Name: Improved Train Model
+Average Epoch Loss on 9: 2.0368687817123523
+Epoch Loss on 10: 122.2120923247247
+Average Epoch Loss on 10: 2.036868205412078
+Model Name: Improved Train Model
+Average Epoch Loss on 10: 2.036868205412078
+Epoch Loss on 11: 122.21208077475109
+Average Epoch Loss on 11: 2.0368680129125183
+Model Name: Improved Train Model
+Average Epoch Loss on 11: 2.0368680129125183
+Epoch Loss on 12: 122.21207691679575
+Average Epoch Loss on 12: 2.0368679486132626
+Model Name: Improved Train Model
+Average Epoch Loss on 12: 2.0368679486132626
+Epoch Loss on 13: 122.21207562815705
+Average Epoch Loss on 13: 2.0368679271359507
+Model Name: Improved Train Model
+Average Epoch Loss on 13: 2.0368679271359507
+Epoch Loss on 14: 122.21207519773372
+Average Epoch Loss on 14: 2.0368679199622286
+Model Name: Improved Train Model
+Average Epoch Loss on 14: 2.0368679199622286
+Epoch Loss on 15: 122.21207505394231
+Average Epoch Loss on 15: 2.036867917565705
+Model Name: Improved Train Model
+Average Epoch Loss on 15: 2.036867917565705
+Epoch Loss on 16: 122.21207500594195
+Average Epoch Loss on 16: 2.0368679167656993
+Model Name: Improved Train Model
+Average Epoch Loss on 16: 2.0368679167656993
+Epoch Loss on 17: 122.21207498988251
+Average Epoch Loss on 17: 2.036867916498042
+Model Name: Improved Train Model
+Average Epoch Loss on 17: 2.036867916498042
+Epoch Loss on 18: 122.21207498451996
+Average Epoch Loss on 18: 2.036867916408666
+Model Name: Improved Train Model
+Average Epoch Loss on 18: 2.036867916408666
+Epoch Loss on 19: 122.21207498274322
+Average Epoch Loss on 19: 2.0368679163790535
+Model Name: Improved Train Model
+Average Epoch Loss on 19: 2.0368679163790535
+Epoch Loss on 20: 122.2120749821575
+Average Epoch Loss on 20: 2.0368679163692915
+Model Name: Improved Train Model
+Average Epoch Loss on 20: 2.0368679163692915
+Epoch Loss on 21: 122.21207498193513
+Average Epoch Loss on 21: 2.0368679163655856
+Model Name: Improved Train Model
+Average Epoch Loss on 21: 2.0368679163655856
+Epoch Loss on 22: 122.21207498186926
+Average Epoch Loss on 22: 2.036867916364488
+Model Name: Improved Train Model
+Average Epoch Loss on 22: 2.036867916364488
+Epoch Loss on 23: 122.21207498185726
+Average Epoch Loss on 23: 2.0368679163642875
+Model Name: Improved Train Model
+Average Epoch Loss on 23: 2.0368679163642875
+Epoch Loss on 24: 122.2120749818435
+Average Epoch Loss on 24: 2.0368679163640584
+Model Name: Improved Train Model
+Average Epoch Loss on 24: 2.0368679163640584
+Epoch Loss on 25: 122.21207498183777
+Average Epoch Loss on 25: 2.036867916363963
+Model Name: Improved Train Model
+Average Epoch Loss on 25: 2.036867916363963
+Epoch Loss on 26: 122.21207498183635
+Average Epoch Loss on 26: 2.0368679163639394
+Model Name: Improved Train Model
+Average Epoch Loss on 26: 2.0368679163639394
+Epoch Loss on 27: 122.21207498183627
+Average Epoch Loss on 27: 2.0368679163639376
+Model Name: Improved Train Model
+Average Epoch Loss on 27: 2.0368679163639376
+Epoch Loss on 28: 122.2120749818361
+Average Epoch Loss on 28: 2.036867916363935
+Model Name: Improved Train Model
+Average Epoch Loss on 28: 2.036867916363935
+Epoch Loss on 29: 122.21207498183607
+Average Epoch Loss on 29: 2.0368679163639345
+Model Name: Improved Train Model
+Average Epoch Loss on 29: 2.0368679163639345
+Epoch Loss on 30: 122.21207498183607
+Average Epoch Loss on 30: 2.0368679163639345
+Model Name: Improved Train Model
+Average Epoch Loss on 30: 2.0368679163639345
+Epoch Loss on 31: 122.21207498183605
+Average Epoch Loss on 31: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 31: 2.036867916363934
+Epoch Loss on 32: 122.21207498183604
+Average Epoch Loss on 32: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 32: 2.036867916363934
+Epoch Loss on 33: 122.21207498183604
+Average Epoch Loss on 33: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 33: 2.036867916363934
+Epoch Loss on 34: 122.21207498183604
+Average Epoch Loss on 34: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 34: 2.036867916363934
+Epoch Loss on 35: 122.21207498183604
+Average Epoch Loss on 35: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 35: 2.036867916363934
+Epoch Loss on 36: 122.21207498183604
+Average Epoch Loss on 36: 2.036867916363934
+Improvized Model: Improved Validate Model epoch started...
+Epoch Loss on 0: 38.559115407935515
+Average Epoch Loss on 0: 1.9279557703967758
+Model Name: Improved Validate Model
+Average Epoch Loss on 0: 1.9279557703967758
+Epoch Loss on 1: 39.2504167454526
+Average Epoch Loss on 1: 1.96252083727263
+Model Name: Improved Validate Model
+Average Epoch Loss on 1: 1.96252083727263
+Epoch Loss on 2: 39.26673131299364
+Average Epoch Loss on 2: 1.9633365656496822
+Model Name: Improved Validate Model
+Average Epoch Loss on 2: 1.9633365656496822
+Epoch Loss on 3: 39.25140314764293
+Average Epoch Loss on 3: 1.9625701573821466
+Model Name: Improved Validate Model
+Average Epoch Loss on 3: 1.9625701573821466
+Epoch Loss on 4: 39.21189764660526
+Average Epoch Loss on 4: 1.960594882330263
+Model Name: Improved Validate Model
+Average Epoch Loss on 4: 1.960594882330263
+Epoch Loss on 5: 39.16020640326547
+Average Epoch Loss on 5: 1.9580103201632735
+Epoch started for not improvized SGD:
+Epoch Loss on 0: 123.95086364733298
+Epoch Loss on 1: 122.52672652758037
+Epoch Loss on 2: 122.31857676004381
+Epoch Loss on 3: 122.2471133604154
+Epoch Loss on 4: 122.2225416350632
+Epoch Loss on 5: 122.21424071518936
+Epoch Loss on 6: 122.21145590556165
+Epoch Loss on 7: 122.2105239094669
+Epoch Loss on 8: 122.21021225222903
+Epoch Loss on 9: 122.21010806340715
+Epoch Loss on 10: 122.21007323567314
+Epoch Loss on 11: 122.21006159399623
+Epoch Loss on 12: 122.21005770263272
+Epoch Loss on 13: 122.21005640190255
+Epoch Loss on 14: 122.21005596713111
+Epoch Loss on 15: 122.21005582179565
+Epoch Loss on 16: 122.21005577322664
+Epoch Loss on 17: 122.21005575699145
+Epoch Loss on 18: 122.21005575156371
+Epoch Loss on 19: 122.21005574974416
+Epoch Loss on 20: 122.21005574914346
+Epoch Loss on 21: 122.21005574894265
+Epoch Loss on 22: 122.21005574887519
+Epoch Loss on 23: 122.21005574883465
+Epoch Loss on 24: 122.21005574882312
+Epoch Loss on 25: 122.21005574884323
+Epoch Loss on 26: 122.21005574884204
+Epoch Loss on 27: 122.21005574884191
+Epoch Loss on 28: 122.21005574884178
+Epoch Loss on 29: 122.21005574884175
+Epoch Loss on 30: 122.21005574884173
+Epoch Loss on 31: 122.21005574884173
+Epoch Loss on 32: 122.21005574884171
+Epoch Loss on 33: 122.21005574884171
+Epoch Loss on 34: 122.21005574884171
+Epoch Loss on 35: 122.21005574884171
+Epoch Loss on 36: 122.21005574884171
+Epoch Loss on 37: 122.21005574884171
+Epoch Loss on 38: 122.21005574884171
+Epoch Loss on 39: 122.21005574884171
+Epoch Loss on 40: 122.21005574884171
+Epoch Loss on 41: 122.21005574884171
+Epoch Loss on 42: 122.21005574884171
+Epoch Loss on 43: 122.21005574884171
+Epoch Loss on 44: 122.21005574884171
+Epoch Loss on 45: 122.21005574884171
+Epoch Loss on 46: 122.21005574884171
+Epoch Loss on 47: 122.21005574884171
+Epoch Loss on 48: 122.21005574884171
+Epoch Loss on 49: 122.21005574884171
+Epoch started for not improvized SGD:
+Epoch Loss on 0: 38.5588213585399
+Epoch Loss on 1: 39.2501454938096
+Epoch Loss on 2: 39.26641827030214
+Epoch Loss on 3: 39.25104039852123
+Epoch Loss on 4: 39.21146017918016
+Epoch Loss on 5: 39.15967182761309
+Epoch Loss on 6: 39.107530285237935
+Epoch Loss on 7: 39.062415439096625
+Epoch Loss on 8: 39.02705482931939
+Epoch Loss on 9: 39.001130557810555
+Epoch Loss on 10: 38.98296395614484
+Epoch Loss on 11: 38.97061258264654
+Epoch Loss on 12: 38.96238106720262
+Epoch Loss on 13: 38.95696651125163
+Epoch Loss on 14: 38.95343507862059
+Epoch Loss on 15: 38.95114449156603
+Epoch Loss on 16: 38.94966402557298
+Epoch Loss on 17: 38.948709351610376
+Epoch Loss on 18: 38.94809464003831
+Epoch Loss on 19: 38.94769920429131
+Epoch Loss on 20: 38.94744498073072
+Epoch Loss on 21: 38.947281605728904
+Epoch Loss on 22: 38.9471766403295
+Epoch Loss on 23: 38.947109212909204
+Epoch Loss on 24: 38.947065903540626
+Epoch Loss on 25: 38.9470380873144
+Epoch Loss on 26: 38.94702022260406
+Epoch Loss on 27: 38.947008749476915
+Epoch Loss on 28: 38.94700138130127
+Epoch Loss on 29: 38.94699664942697
+Epoch Loss on 30: 38.94699361061887
+Epoch Loss on 31: 38.946991659106416
+Epoch Loss on 32: 38.946990405855345
+Epoch Loss on 33: 38.94698960102572
+Epoch Loss on 34: 38.94698908416996
+Epoch Loss on 35: 38.946988752249254
+Epoch Loss on 36: 38.946988539092615
+Epoch Loss on 37: 38.946988402205065
+Epoch Loss on 38: 38.946988314297116
+Epoch Loss on 39: 38.94698825784337
+Epoch Loss on 40: 38.946988221589194
+Epoch Loss on 41: 38.94698819830714
+Epoch Loss on 42: 38.9469881833556
+Epoch Loss on 43: 38.94698817375376
+Epoch Loss on 44: 38.94698816758762
+Epoch Loss on 45: 38.9469881636278
+Epoch Loss on 46: 38.94698816108477
+Epoch Loss on 47: 38.946988159451664
+Epoch Loss on 48: 38.94698815840298
+Epoch Loss on 49: 38.94698815772958
+Improvized Model: Improved Train Model epoch started...
+Epoch Loss on 0: 123.95217687856606
+Average Epoch Loss on 0: 2.0658696146427675
+Model Name: Improved Train Model
+Average Epoch Loss on 0: 2.0658696146427675
+Epoch Loss on 1: 122.52827496238217
+Average Epoch Loss on 1: 2.0421379160397026
+Model Name: Improved Train Model
+Average Epoch Loss on 1: 2.0421379160397026
+Epoch Loss on 2: 122.32033534474802
+Average Epoch Loss on 2: 2.0386722557458
+Model Name: Improved Train Model
+Average Epoch Loss on 2: 2.0386722557458
+Epoch Loss on 3: 122.24901395674132
+Average Epoch Loss on 3: 2.037483565945689
+Model Name: Improved Train Model
+Average Epoch Loss on 3: 2.037483565945689
+Epoch Loss on 4: 122.22451155851003
+Average Epoch Loss on 4: 2.037075192641834
+Model Name: Improved Train Model
+Average Epoch Loss on 4: 2.037075192641834
+Epoch Loss on 5: 122.21624038382454
+Average Epoch Loss on 5: 2.036937339730409
+Model Name: Improved Train Model
+Average Epoch Loss on 5: 2.036937339730409
+Epoch Loss on 6: 122.21346758965423
+Average Epoch Loss on 6: 2.036891126494237
+Model Name: Improved Train Model
+Average Epoch Loss on 6: 2.036891126494237
+Epoch Loss on 7: 122.21254028476032
+Average Epoch Loss on 7: 2.036875671412672
+Model Name: Improved Train Model
+Average Epoch Loss on 7: 2.036875671412672
+Epoch Loss on 8: 122.21223041865633
+Average Epoch Loss on 8: 2.0368705069776056
+Model Name: Improved Train Model
+Average Epoch Loss on 8: 2.0368705069776056
+Epoch Loss on 9: 122.21212690274113
+Average Epoch Loss on 9: 2.0368687817123523
+Model Name: Improved Train Model
+Average Epoch Loss on 9: 2.0368687817123523
+Epoch Loss on 10: 122.2120923247247
+Average Epoch Loss on 10: 2.036868205412078
+Model Name: Improved Train Model
+Average Epoch Loss on 10: 2.036868205412078
+Epoch Loss on 11: 122.21208077475109
+Average Epoch Loss on 11: 2.0368680129125183
+Model Name: Improved Train Model
+Average Epoch Loss on 11: 2.0368680129125183
+Epoch Loss on 12: 122.21207691679575
+Average Epoch Loss on 12: 2.0368679486132626
+Model Name: Improved Train Model
+Average Epoch Loss on 12: 2.0368679486132626
+Epoch Loss on 13: 122.21207562815705
+Average Epoch Loss on 13: 2.0368679271359507
+Model Name: Improved Train Model
+Average Epoch Loss on 13: 2.0368679271359507
+Epoch Loss on 14: 122.21207519773372
+Average Epoch Loss on 14: 2.0368679199622286
+Model Name: Improved Train Model
+Average Epoch Loss on 14: 2.0368679199622286
+Epoch Loss on 15: 122.21207505394231
+Average Epoch Loss on 15: 2.036867917565705
+Model Name: Improved Train Model
+Average Epoch Loss on 15: 2.036867917565705
+Epoch Loss on 16: 122.21207500594195
+Average Epoch Loss on 16: 2.0368679167656993
+Model Name: Improved Train Model
+Average Epoch Loss on 16: 2.0368679167656993
+Epoch Loss on 17: 122.21207498988251
+Average Epoch Loss on 17: 2.036867916498042
+Model Name: Improved Train Model
+Average Epoch Loss on 17: 2.036867916498042
+Epoch Loss on 18: 122.21207498451996
+Average Epoch Loss on 18: 2.036867916408666
+Model Name: Improved Train Model
+Average Epoch Loss on 18: 2.036867916408666
+Epoch Loss on 19: 122.21207498274322
+Average Epoch Loss on 19: 2.0368679163790535
+Model Name: Improved Train Model
+Average Epoch Loss on 19: 2.0368679163790535
+Epoch Loss on 20: 122.2120749821575
+Average Epoch Loss on 20: 2.0368679163692915
+Model Name: Improved Train Model
+Average Epoch Loss on 20: 2.0368679163692915
+Epoch Loss on 21: 122.21207498193513
+Average Epoch Loss on 21: 2.0368679163655856
+Model Name: Improved Train Model
+Average Epoch Loss on 21: 2.0368679163655856
+Epoch Loss on 22: 122.21207498186926
+Average Epoch Loss on 22: 2.036867916364488
+Model Name: Improved Train Model
+Average Epoch Loss on 22: 2.036867916364488
+Epoch Loss on 23: 122.21207498185726
+Average Epoch Loss on 23: 2.0368679163642875
+Model Name: Improved Train Model
+Average Epoch Loss on 23: 2.0368679163642875
+Epoch Loss on 24: 122.2120749818435
+Average Epoch Loss on 24: 2.0368679163640584
+Model Name: Improved Train Model
+Average Epoch Loss on 24: 2.0368679163640584
+Epoch Loss on 25: 122.21207498183777
+Average Epoch Loss on 25: 2.036867916363963
+Model Name: Improved Train Model
+Average Epoch Loss on 25: 2.036867916363963
+Epoch Loss on 26: 122.21207498183635
+Average Epoch Loss on 26: 2.0368679163639394
+Model Name: Improved Train Model
+Average Epoch Loss on 26: 2.0368679163639394
+Epoch Loss on 27: 122.21207498183627
+Average Epoch Loss on 27: 2.0368679163639376
+Model Name: Improved Train Model
+Average Epoch Loss on 27: 2.0368679163639376
+Epoch Loss on 28: 122.2120749818361
+Average Epoch Loss on 28: 2.036867916363935
+Model Name: Improved Train Model
+Average Epoch Loss on 28: 2.036867916363935
+Epoch Loss on 29: 122.21207498183607
+Average Epoch Loss on 29: 2.0368679163639345
+Model Name: Improved Train Model
+Average Epoch Loss on 29: 2.0368679163639345
+Epoch Loss on 30: 122.21207498183607
+Average Epoch Loss on 30: 2.0368679163639345
+Model Name: Improved Train Model
+Average Epoch Loss on 30: 2.0368679163639345
+Epoch Loss on 31: 122.21207498183605
+Average Epoch Loss on 31: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 31: 2.036867916363934
+Epoch Loss on 32: 122.21207498183604
+Average Epoch Loss on 32: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 32: 2.036867916363934
+Epoch Loss on 33: 122.21207498183604
+Average Epoch Loss on 33: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 33: 2.036867916363934
+Epoch Loss on 34: 122.21207498183604
+Average Epoch Loss on 34: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 34: 2.036867916363934
+Epoch Loss on 35: 122.21207498183604
+Average Epoch Loss on 35: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 35: 2.036867916363934
+Epoch Loss on 36: 122.21207498183604
+Average Epoch Loss on 36: 2.036867916363934
+Improvized Model: Improved Validate Model epoch started...
+Epoch Loss on 0: 38.559115407935515
+Average Epoch Loss on 0: 1.9279557703967758
+Model Name: Improved Validate Model
+Average Epoch Loss on 0: 1.9279557703967758
+Epoch Loss on 1: 39.2504167454526
+Average Epoch Loss on 1: 1.96252083727263
+Model Name: Improved Validate Model
+Average Epoch Loss on 1: 1.96252083727263
+Epoch Loss on 2: 39.26673131299364
+Average Epoch Loss on 2: 1.9633365656496822
+Model Name: Improved Validate Model
+Average Epoch Loss on 2: 1.9633365656496822
+Epoch Loss on 3: 39.25140314764293
+Average Epoch Loss on 3: 1.9625701573821466
+Model Name: Improved Validate Model
+Average Epoch Loss on 3: 1.9625701573821466
+Epoch Loss on 4: 39.21189764660526
+Average Epoch Loss on 4: 1.960594882330263
+Model Name: Improved Validate Model
+Average Epoch Loss on 4: 1.960594882330263
+Epoch Loss on 5: 39.16020640326547
+Average Epoch Loss on 5: 1.9580103201632735
+Epoch started for not improvized SGD:
+Epoch Loss on 0: 123.95086364733298
+Epoch Loss on 1: 122.52672652758037
+Epoch Loss on 2: 122.31857676004381
+Epoch Loss on 3: 122.2471133604154
+Epoch Loss on 4: 122.2225416350632
+Epoch Loss on 5: 122.21424071518936
+Epoch Loss on 6: 122.21145590556165
+Epoch Loss on 7: 122.2105239094669
+Epoch Loss on 8: 122.21021225222903
+Epoch Loss on 9: 122.21010806340715
+Epoch Loss on 10: 122.21007323567314
+Epoch Loss on 11: 122.21006159399623
+Epoch Loss on 12: 122.21005770263272
+Epoch Loss on 13: 122.21005640190255
+Epoch Loss on 14: 122.21005596713111
+Epoch Loss on 15: 122.21005582179565
+Epoch Loss on 16: 122.21005577322664
+Epoch Loss on 17: 122.21005575699145
+Epoch Loss on 18: 122.21005575156371
+Epoch Loss on 19: 122.21005574974416
+Epoch Loss on 20: 122.21005574914346
+Epoch Loss on 21: 122.21005574894265
+Epoch Loss on 22: 122.21005574887519
+Epoch Loss on 23: 122.21005574883465
+Epoch Loss on 24: 122.21005574882312
+Epoch Loss on 25: 122.21005574884323
+Epoch Loss on 26: 122.21005574884204
+Epoch Loss on 27: 122.21005574884191
+Epoch Loss on 28: 122.21005574884178
+Epoch Loss on 29: 122.21005574884175
+Epoch Loss on 30: 122.21005574884173
+Epoch Loss on 31: 122.21005574884173
+Epoch Loss on 32: 122.21005574884171
+Epoch Loss on 33: 122.21005574884171
+Epoch Loss on 34: 122.21005574884171
+Epoch Loss on 35: 122.21005574884171
+Epoch Loss on 36: 122.21005574884171
+Epoch Loss on 37: 122.21005574884171
+Epoch Loss on 38: 122.21005574884171
+Epoch Loss on 39: 122.21005574884171
+Epoch Loss on 40: 122.21005574884171
+Epoch Loss on 41: 122.21005574884171
+Epoch Loss on 42: 122.21005574884171
+Epoch Loss on 43: 122.21005574884171
+Epoch Loss on 44: 122.21005574884171
+Epoch Loss on 45: 122.21005574884171
+Epoch Loss on 46: 122.21005574884171
+Epoch Loss on 47: 122.21005574884171
+Epoch Loss on 48: 122.21005574884171
+Epoch Loss on 49: 122.21005574884171
+Epoch started for not improvized SGD:
+Epoch Loss on 0: 38.5588213585399
+Epoch Loss on 1: 39.2501454938096
+Epoch Loss on 2: 39.26641827030214
+Epoch Loss on 3: 39.25104039852123
+Epoch Loss on 4: 39.21146017918016
+Epoch Loss on 5: 39.15967182761309
+Epoch Loss on 6: 39.107530285237935
+Epoch Loss on 7: 39.062415439096625
+Epoch Loss on 8: 39.02705482931939
+Epoch Loss on 9: 39.001130557810555
+Epoch Loss on 10: 38.98296395614484
+Epoch Loss on 11: 38.97061258264654
+Epoch Loss on 12: 38.96238106720262
+Epoch Loss on 13: 38.95696651125163
+Epoch Loss on 14: 38.95343507862059
+Epoch Loss on 15: 38.95114449156603
+Epoch Loss on 16: 38.94966402557298
+Epoch Loss on 17: 38.948709351610376
+Epoch Loss on 18: 38.94809464003831
+Epoch Loss on 19: 38.94769920429131
+Epoch Loss on 20: 38.94744498073072
+Epoch Loss on 21: 38.947281605728904
+Epoch Loss on 22: 38.9471766403295
+Epoch Loss on 23: 38.947109212909204
+Epoch Loss on 24: 38.947065903540626
+Epoch Loss on 25: 38.9470380873144
+Epoch Loss on 26: 38.94702022260406
+Epoch Loss on 27: 38.947008749476915
+Epoch Loss on 28: 38.94700138130127
+Epoch Loss on 29: 38.94699664942697
+Epoch Loss on 30: 38.94699361061887
+Epoch Loss on 31: 38.946991659106416
+Epoch Loss on 32: 38.946990405855345
+Epoch Loss on 33: 38.94698960102572
+Epoch Loss on 34: 38.94698908416996
+Epoch Loss on 35: 38.946988752249254
+Epoch Loss on 36: 38.946988539092615
+Epoch Loss on 37: 38.946988402205065
+Epoch Loss on 38: 38.946988314297116
+Epoch Loss on 39: 38.94698825784337
+Epoch Loss on 40: 38.946988221589194
+Epoch Loss on 41: 38.94698819830714
+Epoch Loss on 42: 38.9469881833556
+Epoch Loss on 43: 38.94698817375376
+Epoch Loss on 44: 38.94698816758762
+Epoch Loss on 45: 38.9469881636278
+Epoch Loss on 46: 38.94698816108477
+Epoch Loss on 47: 38.946988159451664
+Epoch Loss on 48: 38.94698815840298
+Epoch Loss on 49: 38.94698815772958
+Improvized Model: Improved Train Model epoch started...
+Epoch Loss on 0: 123.95217687856606
+Average Epoch Loss on 0: 2.0658696146427675
+Model Name: Improved Train Model
+Average Epoch Loss on 0: 2.0658696146427675
+Epoch Loss on 1: 122.52827496238217
+Average Epoch Loss on 1: 2.0421379160397026
+Model Name: Improved Train Model
+Average Epoch Loss on 1: 2.0421379160397026
+Epoch Loss on 2: 122.32033534474802
+Average Epoch Loss on 2: 2.0386722557458
+Model Name: Improved Train Model
+Average Epoch Loss on 2: 2.0386722557458
+Epoch Loss on 3: 122.24901395674132
+Average Epoch Loss on 3: 2.037483565945689
+Model Name: Improved Train Model
+Average Epoch Loss on 3: 2.037483565945689
+Epoch Loss on 4: 122.22451155851003
+Average Epoch Loss on 4: 2.037075192641834
+Model Name: Improved Train Model
+Average Epoch Loss on 4: 2.037075192641834
+Epoch Loss on 5: 122.21624038382454
+Average Epoch Loss on 5: 2.036937339730409
+Model Name: Improved Train Model
+Average Epoch Loss on 5: 2.036937339730409
+Epoch Loss on 6: 122.21346758965423
+Average Epoch Loss on 6: 2.036891126494237
+Model Name: Improved Train Model
+Average Epoch Loss on 6: 2.036891126494237
+Epoch Loss on 7: 122.21254028476032
+Average Epoch Loss on 7: 2.036875671412672
+Model Name: Improved Train Model
+Average Epoch Loss on 7: 2.036875671412672
+Epoch Loss on 8: 122.21223041865633
+Average Epoch Loss on 8: 2.0368705069776056
+Model Name: Improved Train Model
+Average Epoch Loss on 8: 2.0368705069776056
+Epoch Loss on 9: 122.21212690274113
+Average Epoch Loss on 9: 2.0368687817123523
+Model Name: Improved Train Model
+Average Epoch Loss on 9: 2.0368687817123523
+Epoch Loss on 10: 122.2120923247247
+Average Epoch Loss on 10: 2.036868205412078
+Model Name: Improved Train Model
+Average Epoch Loss on 10: 2.036868205412078
+Epoch Loss on 11: 122.21208077475109
+Average Epoch Loss on 11: 2.0368680129125183
+Model Name: Improved Train Model
+Average Epoch Loss on 11: 2.0368680129125183
+Epoch Loss on 12: 122.21207691679575
+Average Epoch Loss on 12: 2.0368679486132626
+Model Name: Improved Train Model
+Average Epoch Loss on 12: 2.0368679486132626
+Epoch Loss on 13: 122.21207562815705
+Average Epoch Loss on 13: 2.0368679271359507
+Model Name: Improved Train Model
+Average Epoch Loss on 13: 2.0368679271359507
+Epoch Loss on 14: 122.21207519773372
+Average Epoch Loss on 14: 2.0368679199622286
+Model Name: Improved Train Model
+Average Epoch Loss on 14: 2.0368679199622286
+Epoch Loss on 15: 122.21207505394231
+Average Epoch Loss on 15: 2.036867917565705
+Model Name: Improved Train Model
+Average Epoch Loss on 15: 2.036867917565705
+Epoch Loss on 16: 122.21207500594195
+Average Epoch Loss on 16: 2.0368679167656993
+Model Name: Improved Train Model
+Average Epoch Loss on 16: 2.0368679167656993
+Epoch Loss on 17: 122.21207498988251
+Average Epoch Loss on 17: 2.036867916498042
+Model Name: Improved Train Model
+Average Epoch Loss on 17: 2.036867916498042
+Epoch Loss on 18: 122.21207498451996
+Average Epoch Loss on 18: 2.036867916408666
+Model Name: Improved Train Model
+Average Epoch Loss on 18: 2.036867916408666
+Epoch Loss on 19: 122.21207498274322
+Average Epoch Loss on 19: 2.0368679163790535
+Model Name: Improved Train Model
+Average Epoch Loss on 19: 2.0368679163790535
+Epoch Loss on 20: 122.2120749821575
+Average Epoch Loss on 20: 2.0368679163692915
+Model Name: Improved Train Model
+Average Epoch Loss on 20: 2.0368679163692915
+Epoch Loss on 21: 122.21207498193513
+Average Epoch Loss on 21: 2.0368679163655856
+Model Name: Improved Train Model
+Average Epoch Loss on 21: 2.0368679163655856
+Epoch Loss on 22: 122.21207498186926
+Average Epoch Loss on 22: 2.036867916364488
+Model Name: Improved Train Model
+Average Epoch Loss on 22: 2.036867916364488
+Epoch Loss on 23: 122.21207498185726
+Average Epoch Loss on 23: 2.0368679163642875
+Model Name: Improved Train Model
+Average Epoch Loss on 23: 2.0368679163642875
+Epoch Loss on 24: 122.2120749818435
+Average Epoch Loss on 24: 2.0368679163640584
+Model Name: Improved Train Model
+Average Epoch Loss on 24: 2.0368679163640584
+Epoch Loss on 25: 122.21207498183777
+Average Epoch Loss on 25: 2.036867916363963
+Model Name: Improved Train Model
+Average Epoch Loss on 25: 2.036867916363963
+Epoch Loss on 26: 122.21207498183635
+Average Epoch Loss on 26: 2.0368679163639394
+Model Name: Improved Train Model
+Average Epoch Loss on 26: 2.0368679163639394
+Epoch Loss on 27: 122.21207498183627
+Average Epoch Loss on 27: 2.0368679163639376
+Model Name: Improved Train Model
+Average Epoch Loss on 27: 2.0368679163639376
+Epoch Loss on 28: 122.2120749818361
+Average Epoch Loss on 28: 2.036867916363935
+Model Name: Improved Train Model
+Average Epoch Loss on 28: 2.036867916363935
+Epoch Loss on 29: 122.21207498183607
+Average Epoch Loss on 29: 2.0368679163639345
+Model Name: Improved Train Model
+Average Epoch Loss on 29: 2.0368679163639345
+Epoch Loss on 30: 122.21207498183607
+Average Epoch Loss on 30: 2.0368679163639345
+Model Name: Improved Train Model
+Average Epoch Loss on 30: 2.0368679163639345
+Epoch Loss on 31: 122.21207498183605
+Average Epoch Loss on 31: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 31: 2.036867916363934
+Epoch Loss on 32: 122.21207498183604
+Average Epoch Loss on 32: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 32: 2.036867916363934
+Epoch Loss on 33: 122.21207498183604
+Average Epoch Loss on 33: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 33: 2.036867916363934
+Epoch Loss on 34: 122.21207498183604
+Average Epoch Loss on 34: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 34: 2.036867916363934
+Epoch Loss on 35: 122.21207498183604
+Average Epoch Loss on 35: 2.036867916363934
+Model Name: Improved Train Model
+Average Epoch Loss on 35: 2.036867916363934
+Epoch Loss on 36: 122.21207498183604
+Average Epoch Loss on 36: 2.036867916363934
+Improvized Model: Improved Validate Model epoch started...
+Epoch Loss on 0: 38.559115407935515
+Average Epoch Loss on 0: 1.9279557703967758
+Model Name: Improved Validate Model
+Average Epoch Loss on 0: 1.9279557703967758
+Epoch Loss on 1: 39.2504167454526
+Average Epoch Loss on 1: 1.96252083727263
+Model Name: Improved Validate Model
+Average Epoch Loss on 1: 1.96252083727263
+Epoch Loss on 2: 39.26673131299364
+Average Epoch Loss on 2: 1.9633365656496822
+Model Name: Improved Validate Model
+Average Epoch Loss on 2: 1.9633365656496822
+Epoch Loss on 3: 39.25140314764293
+Average Epoch Loss on 3: 1.9625701573821466
+Model Name: Improved Validate Model
+Average Epoch Loss on 3: 1.9625701573821466
+Epoch Loss on 4: 39.21189764660526
+Average Epoch Loss on 4: 1.960594882330263
+Model Name: Improved Validate Model
+Average Epoch Loss on 4: 1.960594882330263
+Epoch Loss on 5: 39.16020640326547
+Average Epoch Loss on 5: 1.9580103201632735

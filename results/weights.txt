@@ -1,0 +1,56 @@
+Model Name: Train Model
+Weights: [np.float64(0.057334261326887945), np.float64(0.01055432201850106)]
+Model Name: Validate Model
+Weights: [np.float64(0.019140150164792855), np.float64(0.08752730398529741)]
+Model Name: Improved Train Model
+Weights: [np.float64(0.057322637068231444), np.float64(0.01055987097242865)]
+Model Name: Improved Validate Model
+Weights: [np.float64(0.023708153086232815), np.float64(0.08467290376836599)]
+Model Name: Train Model
+Weights: [np.float64(0.057334261326887945), np.float64(0.01055432201850106)]
+Model Name: Validate Model
+Weights: [np.float64(0.019140150164792855), np.float64(0.08752730398529741)]
+Model Name: Improved Train Model
+Weights: [np.float64(0.057322637068231444), np.float64(0.01055987097242865)]
+Model Name: Improved Validate Model
+Weights: [np.float64(0.023708153086232815), np.float64(0.08467290376836599)]
+Model Name: Train Model
+Weights: [np.float64(0.057334261326887945), np.float64(0.01055432201850106)]
+Model Name: Validate Model
+Weights: [np.float64(0.019140150164792855), np.float64(0.08752730398529741)]
+Model Name: Improved Train Model
+Weights: [np.float64(0.057322637068231444), np.float64(0.01055987097242865)]
+Model Name: Improved Validate Model
+Weights: [np.float64(0.023708153086232815), np.float64(0.08467290376836599)]
+Model Name: Train Model
+Weights: [np.float64(0.057334261326887945), np.float64(0.01055432201850106)]
+Model Name: Validate Model
+Weights: [np.float64(0.019140150164792855), np.float64(0.08752730398529741)]
+Model Name: Improved Train Model
+Weights: [np.float64(0.057322637068231444), np.float64(0.01055987097242865)]
+Model Name: Improved Validate Model
+Weights: [np.float64(0.023708153086232815), np.float64(0.08467290376836599)]
+Model Name: Train Model
+Weights: [np.float64(0.057334261326887945), np.float64(0.01055432201850106)]
+Model Name: Validate Model
+Weights: [np.float64(0.019140150164792855), np.float64(0.08752730398529741)]
+Model Name: Improved Train Model
+Weights: [np.float64(0.057322637068231444), np.float64(0.01055987097242865)]
+Model Name: Improved Validate Model
+Weights: [np.float64(0.023708153086232815), np.float64(0.08467290376836599)]
+Model Name: Train Model
+Weights: [np.float64(0.057334261326887945), np.float64(0.01055432201850106)]
+Model Name: Validate Model
+Weights: [np.float64(0.019140150164792855), np.float64(0.08752730398529741)]
+Model Name: Improved Train Model
+Weights: [np.float64(0.057322637068231444), np.float64(0.01055987097242865)]
+Model Name: Improved Validate Model
+Weights: [np.float64(0.023708153086232815), np.float64(0.08467290376836599)]
+Model Name: Train Model
+Weights: [np.float64(0.057334261326887945), np.float64(0.01055432201850106)]
+Model Name: Validate Model
+Weights: [np.float64(0.019140150164792855), np.float64(0.08752730398529741)]
+Model Name: Improved Train Model
+Weights: [np.float64(0.057322637068231444), np.float64(0.01055987097242865)]
+Model Name: Improved Validate Model
+Weights: [np.float64(0.023708153086232815), np.float64(0.08467290376836599)]
